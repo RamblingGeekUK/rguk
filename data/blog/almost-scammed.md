@@ -20,11 +20,9 @@ She had purchased Office with the computer and off course wanted to install/acti
 
 She had gone to the following site (I haven't shared the URL as I don't want to help them)  which looks fairly legit to anyone who hasn't seen the genuine office activation page.
 
-![alt text](~/assets/images/posts/fakeoffice.png "Title")
+![Office](/src/assets/images/fakeoffice.png "Fake Office Screen Grab")
 
 She typed in the key and of course it failed with an error.
-
-![Fake Office 2](~/assets/images/posts/fakeoffice2.png "Office 2")
 
 I haven't been able to replicate the voice search performed by Cortana and get the same result as she can't quite remember what she said.
 

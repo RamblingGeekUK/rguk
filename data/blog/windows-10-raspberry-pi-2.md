@@ -1,6 +1,6 @@
 ---
 title: "Windows 10 Raspberry Pi 2"
-date: "2015-05-01"
+publishDate: "2015-05-01"
 categories: 
   - "general"
 tags: 

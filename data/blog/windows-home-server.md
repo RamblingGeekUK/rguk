@@ -1,6 +1,6 @@
 ---
 title: "Windows Home Server"
-date: "2008-07-30"
+publishDate: "2008-07-30"
 categories: 
   - "general"
 ---

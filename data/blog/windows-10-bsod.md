@@ -1,6 +1,6 @@
 ---
 title: "Windows 10: BSOD"
-date: "2018-10-12"
+publishDate: "2018-10-12"
 categories: 
   - "general"
 ---

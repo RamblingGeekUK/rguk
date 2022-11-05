@@ -1,6 +1,6 @@
 ---
 title: "Windows SBS 2011 R2:  Black screen and Mouse Cursor on boot, never boots"
-date: "2013-06-05"
+publishDate: "2013-06-05"
 categories: 
   - "general"
 ---

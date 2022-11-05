@@ -1,6 +1,6 @@
 ---
 title: "Windows Vista VHD CompletePC File.."
-date: "2006-07-31"
+publishDate: "2006-07-31"
 categories: 
   - "general"
 ---

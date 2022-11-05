@@ -1,6 +1,6 @@
 ---
 title: "Uploading a File"
-date: "2012-07-02"
+publishDate: "2012-07-02"
 categories: 
   - "general"
 ---

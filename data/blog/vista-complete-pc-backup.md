@@ -1,6 +1,6 @@
 ---
 title: "Vista Complete PC Backup"
-date: "2008-06-26"
+publishDate: "2008-06-26"
 categories: 
   - "general"
 ---

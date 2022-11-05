@@ -1,6 +1,6 @@
 ---
 title: "Virtual Server 2005 R2 SP1"
-date: "2007-08-14"
+publishDate: "2007-08-14"
 categories: 
   - "general"
 ---

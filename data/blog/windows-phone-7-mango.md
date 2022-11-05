@@ -1,6 +1,6 @@
 ---
 title: "Windows Phone 7 – Mango"
-date: "2011-07-20"
+publishDate: "2011-07-20"
 categories: 
   - "general"
 ---

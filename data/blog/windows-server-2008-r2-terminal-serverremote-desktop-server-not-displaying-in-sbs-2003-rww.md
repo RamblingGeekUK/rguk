@@ -1,6 +1,6 @@
 ---
 title: "Windows Server 2008 R2 Terminal Server/Remote Desktop Server not displaying in SBS 2003 RWW"
-date: "2011-03-23"
+publishDate: "2011-03-23"
 categories: 
   - "general"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Twitter"
-date: "2009-08-20"
+publishDate: "2009-08-20"
 categories: 
   - "general"
 ---

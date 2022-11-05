@@ -1,6 +1,6 @@
 ---
 title: "Windows Virtual Server/PC VHD files..."
-date: "2006-07-26"
+publishDate: "2006-07-26"
 categories: 
   - "general"
 ---

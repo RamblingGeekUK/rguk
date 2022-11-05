@@ -1,6 +1,6 @@
 ---
 title: "Why the switch from Windows Phone to iPhone?"
-date: "2012-04-26"
+publishDate: "2012-04-26"
 categories: 
   - "general"
 ---

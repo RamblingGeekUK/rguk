@@ -1,6 +1,6 @@
 ---
 title: "Windows 8 HyperV and SLAT"
-date: "2012-03-03"
+publishDate: "2012-03-03"
 categories: 
   - "general"
 ---

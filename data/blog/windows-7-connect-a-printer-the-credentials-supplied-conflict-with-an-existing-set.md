@@ -1,6 +1,6 @@
 ---
 title: "Windows 7 Connect a printer - The credentials supplied conflict with an existing set"
-date: "2013-06-18"
+publishDate: "2013-06-18"
 categories: 
   - "general"
 ---

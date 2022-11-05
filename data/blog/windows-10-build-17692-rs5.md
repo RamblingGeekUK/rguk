@@ -1,6 +1,6 @@
 ---
 title: "Windows 10 Build 17692 (RS5)"
-date: "2018-06-15"
+publishDate: "2018-06-15"
 categories: 
   - "general"
 ---

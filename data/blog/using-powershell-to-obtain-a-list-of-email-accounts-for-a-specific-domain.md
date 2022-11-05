@@ -1,6 +1,6 @@
 ---
 title: "Using PowerShell to obtain a list of email accounts for a specific domain"
-date: "2012-07-16"
+publishDate: "2012-07-16"
 categories: 
   - "general"
 ---

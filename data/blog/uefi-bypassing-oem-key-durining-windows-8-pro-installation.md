@@ -1,6 +1,6 @@
 ---
 title: "UEFI Bypassing OEM Key Durining Windows 8 Pro Installation"
-date: "2013-07-23"
+publishDate: "2013-07-23"
 categories: 
   - "general"
 ---

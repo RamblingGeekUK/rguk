@@ -1,6 +1,6 @@
 ---
 title: "Various"
-date: "2010-07-01"
+publishDate: "2010-07-01"
 categories: 
   - "general"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Windows 7: Running the same application twice"
-date: "2012-12-14"
+publishDate: "2012-12-14"
 categories: 
   - "general"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Windows Home Server Add-in"
-date: "2009-09-01"
+publishDate: "2009-09-01"
 categories: 
   - "general"
 ---

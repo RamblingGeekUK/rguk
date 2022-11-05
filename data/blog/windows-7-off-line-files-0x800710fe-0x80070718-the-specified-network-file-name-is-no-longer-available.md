@@ -1,6 +1,6 @@
 ---
 title: "Windows 7 Off Line Files (0x800710FE, 0x80070718, The specified network file name is no longer available)"
-date: "2013-01-16"
+publishDate: "2013-01-16"
 categories: 
   - "general"
 ---

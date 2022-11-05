@@ -1,6 +1,6 @@
 ---
 title: "Why Windows Activation Needs to go"
-date: "2009-11-24"
+publishDate: "2009-11-24"
 categories: 
   - "general"
 ---

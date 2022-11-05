@@ -1,6 +1,6 @@
 ---
 title: "3G iPhone"
-publishDate: "2008-06-09"
+publishpublishpublishpublishpublishpublishpublishpublishpublishpublishpublishpublishpublishpublishpublishDate: "2008-06-09"
 categories: 
   - "general"
 ---

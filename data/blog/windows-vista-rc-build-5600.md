@@ -1,6 +1,6 @@
 ---
 title: "Windows Vista RC (Build 5600)"
-date: "2006-09-09"
+publishDate: "2006-09-09"
 categories: 
   - "general"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Virtual PC x64 Support"
-date: "2008-08-26"
+publishDate: "2008-08-26"
 categories: 
   - "general"
 ---

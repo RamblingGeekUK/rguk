@@ -1,6 +1,6 @@
 ---
 title: "Windows 10 is Coming to RasberryPi2"
-date: "2015-02-02"
+publishDate: "2015-02-02"
 categories: 
   - "general"
 ---

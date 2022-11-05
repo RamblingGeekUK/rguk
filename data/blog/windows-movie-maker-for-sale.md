@@ -1,6 +1,6 @@
 ---
 title: "Windows Movie Maker for Sale?"
-date: "2017-04-02"
+publishDate: "2017-04-02"
 categories: 
   - "articleopinon"
   - "general"

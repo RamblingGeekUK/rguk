@@ -1,6 +1,6 @@
 ---
 title: "Windows Universal Installation"
-date: "2012-06-13"
+publishDate: "2012-06-13"
 categories: 
   - "general"
 ---

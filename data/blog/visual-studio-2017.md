@@ -1,6 +1,6 @@
 ---
 title: "Visual Studio 2017"
-date: "2017-03-31"
+publishDate: "2017-03-31"
 categories: 
   - "general"
 coverImage: "VS2017-Installer.png"

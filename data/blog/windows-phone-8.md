@@ -1,6 +1,6 @@
 ---
 title: "Windows Phone 8"
-date: "2012-10-30"
+publishDate: "2012-10-30"
 categories: 
   - "general"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Twitter Down Again!"
-date: "2009-08-24"
+publishDate: "2009-08-24"
 categories: 
   - "general"
 ---

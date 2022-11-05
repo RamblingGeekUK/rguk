@@ -1,6 +1,6 @@
 ---
 title: "Windows 7 Resizing of Partitions"
-date: "2009-10-21"
+publishDate: "2009-10-21"
 categories: 
   - "general"
 ---

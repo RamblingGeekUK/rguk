@@ -1,6 +1,6 @@
 ---
 title: "Two Weeks Today"
-date: "2011-06-01"
+publishDate: "2011-06-01"
 categories: 
   - "general"
 ---

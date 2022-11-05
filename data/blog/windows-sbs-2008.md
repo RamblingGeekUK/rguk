@@ -1,6 +1,6 @@
 ---
 title: "Windows SBS 2008"
-date: "2008-06-30"
+publishDate: "2008-06-30"
 categories: 
   - "general"
 ---

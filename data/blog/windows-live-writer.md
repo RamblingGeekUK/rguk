@@ -1,6 +1,6 @@
 ---
 title: "Windows Live Writer"
-date: "2006-08-15"
+publishDate: "2006-08-15"
 categories: 
   - "general"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Windows Phone Update Error 0x8188308"
-date: "2014-08-22"
+publishDate: "2014-08-22"
 categories: 
   - "general"
 ---

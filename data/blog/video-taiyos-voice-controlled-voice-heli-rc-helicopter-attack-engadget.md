@@ -1,6 +1,6 @@
 ---
 title: "Video: Taiyo's voice controlled Voice-Heli RC helicopter: \"attack!\" - Engadget"
-date: "2009-01-16"
+publishDate: "2009-01-16"
 categories: 
   - "general"
 ---

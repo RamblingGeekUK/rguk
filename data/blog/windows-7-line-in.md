@@ -1,6 +1,6 @@
 ---
 title: "Windows 7 Line In"
-date: "2009-08-27"
+publishDate: "2009-08-27"
 categories: 
   - "general"
 ---

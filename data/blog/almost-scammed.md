@@ -20,7 +20,7 @@ She had purchased Office with the computer and off course wanted to install/acti
 
 She had gone to the following site (I haven't shared the URL as I don't want to help them)  which looks fairly legit to anyone who hasn't seen the genuine office activation page.
 
-![Office](/src/assets/images/fakeoffice.png "Fake Office Screen Grab")
+![test](/images/RG-SMTP-Tester.png)
 
 She typed in the key and of course it failed with an error.
 

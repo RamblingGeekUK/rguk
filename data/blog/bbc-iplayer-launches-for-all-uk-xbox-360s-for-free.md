@@ -5,8 +5,6 @@ categories:
   - "general"
 ---
 
- 
+I tweeted about this a while back. Looks like Microsoft saw sense and allowed the BBC to put this on the Xbox without the need for an XBOX Live Gold Subscription. Which means it's free to all. Which is great.
 
-I tweeted about this a while back.  Looks like Microsoft actually seen sense and allowed the BBC to put this on the Xbox without the need for an XBOX Live Gold Subscription.  Which means it's free to all.  Which is great.
-
-Now all we need is for the whole country to have access to 10mb+ broadband connections.
+Now, all we need is for the whole country to have access to 10mb+ broadband connections.

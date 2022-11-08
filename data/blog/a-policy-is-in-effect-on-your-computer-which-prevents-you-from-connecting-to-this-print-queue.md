@@ -5,17 +5,17 @@ categories:
   - "general"
 ---
 
-I received this error after browsing to \\\\server\\printershare, right clicking and selecting connect, it proceeded as normal then the error was thrown, removing KB3170455 will resolve the issue.
+I received this error after browsing to \\\\server\\printershare, right-clicking and selecting connect, it proceeded as normal then the error was thrown, removing KB3170455 will resolve the issue.
 
-You can check if it's installed by opening PowerShell and run:-
+You can check if it's installed by opening PowerShell and running:-
 
-```cli
+plaintext
 get-hotfix KB3170455
 ```
 
-this will return a list it if it's installed.  You can remove from the command line (doesn't appear to be a PowerShell cmdlet at this time) by running: -
+this will return a list if it's installed. You can remove it from the command line (doesn't appear to be a PowerShell cmdlet at this time) by running: -
 
-```cli
+plaintext
 wusa.exe /uninstall /kb:3114409 /norestart /quiet
 ```
 

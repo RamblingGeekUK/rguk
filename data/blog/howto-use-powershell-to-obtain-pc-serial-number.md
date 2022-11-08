@@ -10,7 +10,7 @@ tags:
 
 Open powershell and enter the following :
 
-```cli
+plaintext
 (get-wmiobject WIN32\_bios).SerialNumber
 ```
 

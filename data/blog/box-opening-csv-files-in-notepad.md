@@ -5,9 +5,8 @@ categories:
   - "general"
 ---
 
-When using BOX via the Web Interface and the user clicks edit, the CSV files opens in notepad.  This happens even when Excel opens CSV file locally. 
-
-To reslove this we need to change the CSV file type from text to document. We can do this in the registry. 
+When using BOX via the Web Interface and the user clicks edit, the CSV files open in notepad.  This happens even when Excel opens CSV file locally.
+To resolve this we need to change the CSV file type from text to document. We can do this in the registry.
 
 - Open Registry Editor by going to Start and searching for "regedit"  
       

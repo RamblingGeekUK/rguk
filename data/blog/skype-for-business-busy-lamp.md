@@ -31,9 +31,7 @@ Below is the code I used for the Arduino UNO and you can see we can set the colo
 
 Next, I set about working out the Circut which wasn't the difficult as there are lots of guides on the web.  See my design below.
 
-![](https://www.ramblinggeek.co.uk/wp-content/uploads/2018/02/Skype-Busy-Lamp_bb-1024x882.png)
-
- 
+![/images/Skype-Busy-Lamp_bb.png](/images/Skype-Busy-Lamp_bb.png)
 
 Links :
 

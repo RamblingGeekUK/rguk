@@ -11,8 +11,6 @@ tags:
 
 If your seeing this when trying to connect to your DrayTek with the latest versions of Chrome.
 
- 
-
-[![DrayTek SSL Chrome SSL Error](https://www.ramblinggeek.co.uk/wp-content/uploads/2015/02/DrayTek-SSL-Chrome-SSL-Error1.png)](https://www.ramblinggeek.co.uk/wp-content/uploads/2015/02/DrayTek-SSL-Chrome-SSL-Error1.png)
+[![DrayTek SSL Chrome SSL Error](/images/DrayTek-SSL-Chrome-SSL-Error1.png)](/images/DrayTek-SSL-Chrome-SSL-Error1.png)
 
 The Fix is fairly simple.   Go and update to the latest version of the firmware, [here](http://www.draytek.co.uk/support/downloads), be sure to select the correct version of the firmware.

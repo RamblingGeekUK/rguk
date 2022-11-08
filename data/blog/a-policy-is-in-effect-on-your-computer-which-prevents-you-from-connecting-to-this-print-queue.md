@@ -9,10 +9,14 @@ I received this error after browsing to \\\\server\\printershare, right clicking
 
 You can check if it's installed by opening PowerShell and run:-
 
+```cli
 get-hotfix KB3170455
+```
 
 this will return a list it if it's installed.  You can remove from the command line (doesn't appear to be a PowerShell cmdlet at this time) by running: -
 
+```cli
 wusa.exe /uninstall /kb:3114409 /norestart /quiet
+```
 
 KB3170455 seems to be the causing this issue and removing it will resolve the issue. I've not figured a how to install the printer without removing this update.  If you have one then please post it in the comments.

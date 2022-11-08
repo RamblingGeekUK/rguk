@@ -11,20 +11,28 @@ The solution is to delete the driver and reinstall.   This won't work if the pr
 
 Stop the Print Spooler.  You can do this via Services or using the command prompt,
 
+```cli
 NET STOP SPOOLER
+```
 
 Then open RegEdit, (Windows Key + R, type regedit)
 
 Browse to the following path, replaing <DRIVERNAME> with the driver that you would like to delete, right click and delete it.
 
+```cli
 HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\Print\\Environments\\ x86 or x64\\Drivers\\Version-3\\DRIVERNAME
+```
 
 Start the Print Spooler.  You can do this via Services or using the command prompt,
 
+```cli
 NET START SPOOLER
+```
 
 Open a Command Prompt windows and type:
 
+```cli
 GPUPDATE /FORCE
+```
 
 Log Off and Log back in and run a test print, it should now be resolved.

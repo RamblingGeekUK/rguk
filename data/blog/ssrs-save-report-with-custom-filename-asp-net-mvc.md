@@ -16,6 +16,8 @@ The problem with this approach is that there is no way to change the name of the
 
 This is the solution that I've come up with.
 
+```c#
+
 public ActionResult GetPDFReport(int? id)
 {
    string filename = "Generate Filename Here"
@@ -27,5 +29,6 @@ public ActionResult GetPDFReport(int? id)
    string reportURL = "http://servername//ReportServer?PO&rs:Format=PDF&rs:ClearSession=true&Param1=" + id;
    return File(client.DownloadData(reportURL), "application/pdf", filename);
 }
+```
 
-Have fun! :-)
+Have fun! :-) 

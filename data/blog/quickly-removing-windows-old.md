@@ -13,23 +13,23 @@ After thinking to myself "There Must Be a Better Way" I found the article noted 
 
 2\. Select the drive / partition which Windows Vista / 7 is installed on. ( See image Below)
 
-[![os_select-1](http://ramblinggeek.co.uk/wp-content/uploads/2013/09/os_select-1.png)](http://ramblinggeek.co.uk/2013/09/quickly-removing-windows-old/os_select-1/)
+[![os_select-1](/images/os_select-1.png)]()
 
 3\. It will quickly scan your computer. Then it will display a window like the one below. You need to click "Clean up system files". If prompted by UAC, then click on Yes. (See image below)
 
-[![clean_up](http://ramblinggeek.co.uk/wp-content/uploads/2013/09/clean_up.png)](http://ramblinggeek.co.uk/2013/09/quickly-removing-windows-old/clean_up/)
+[![clean_up](/images/clean_up.png)](http://ramblinggeek.co.uk/2013/09/quickly-removing-windows-old/clean_up/)
 
 4\. It will again ask you to select the OS and scan your computer. (See image below)
 
-[![os_select](http://ramblinggeek.co.uk/wp-content/uploads/2013/09/os_select.png)](http://ramblinggeek.co.uk/2013/09/quickly-removing-windows-old/os_select/)
+[![os_select](/images/os_select.png)](http://ramblinggeek.co.uk/2013/09/quickly-removing-windows-old/os_select/)
 
 5\. Make sure "Previous windows installations" is ticked and click Ok. (See image below)
 
-[![prev_win_inst](http://ramblinggeek.co.uk/wp-content/uploads/2013/09/prev_win_inst.png)](http://ramblinggeek.co.uk/2013/09/quickly-removing-windows-old/prev_win_inst/)
+[![prev_win_inst](/images/prev_win_inst.png)](http://ramblinggeek.co.uk/2013/09/quickly-removing-windows-old/prev_win_inst/)
 
 6\. Click delete files. (See image below)
 
-[![del_files](http://ramblinggeek.co.uk/wp-content/uploads/2013/09/del_files.png)](http://ramblinggeek.co.uk/2013/09/quickly-removing-windows-old/del_files/)
+[![del_files](/images/del_files.png)](http://ramblinggeek.co.uk/2013/09/quickly-removing-windows-old/del_files/)
 
 7\. Windows.old should now be deleted.
 

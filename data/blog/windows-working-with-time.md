@@ -7,17 +7,23 @@ categories:
 
 To find out the current time source:
 
+```cli
 w32tm /query /source
+```
 
 To resync a server or to force a server to update it's time with the source:
 
+```cli
 w32tm /resync
+```
 
 Setting external time server:
 
+```cli
 w32tm /config /manualpeerlist:pool.ntp.org /syncfromflags:MANUAL
 Stop-Service w32time
 Start-Service w32time
+```
 
 A List of Time Servers: [KB262860](http://support.microsoft.com/kb/262680) 
 

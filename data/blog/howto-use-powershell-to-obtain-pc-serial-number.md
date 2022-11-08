@@ -10,8 +10,10 @@ tags:
 
 Open powershell and enter the following :
 
+```cli
 (get-wmiobject WIN32\_bios).SerialNumber
+```
 
 Which will return the system's serial number registered in the BIOS.
 
-:-) Enjoy.
+🙂 Enjoy.

@@ -7,9 +7,7 @@ categories:
 
 So your playing... sorry... learning/working with Virtual Machine Manager (VMM) and installing/configuring virtual switches.   Your configuration doesn't take and in the Job's windows from VMM, you see something like the following: -
 
-[![HyperVVMMJobsError](http://ramblinggeek.co.uk/wp-content/uploads/2013/04/HyperVVMMJobsError.png)](http://ramblinggeek.co.uk/?attachment_id=)
-
- 
+[![HyperVVMMJobsError](/images/HyperVVMMJobsError.png)](http://ramblinggeek.co.uk/?attachment_id=)
 
 You log onto the physical console of the server and see that the network connection, now reads  "no active network adapters found".
 

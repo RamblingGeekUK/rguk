@@ -21,7 +21,7 @@ We’re taking the following steps to make this transition as easy as possible f
 - If you are using more than 5 GB of free storage, you will continue to have access to all files for at least 12 months after these changes go into effect in early 2016. In addition, you can redeem a free one-year Office 365 Personal subscription (credit card required), which includes 1 TB of OneDrive storage.
 - Current customers of standalone OneDrive storage plans (such as a 100 or 200 GB plans) are not affected by these changes.
 
-I thought that Microsoft was beginning to change and not do dump moves like this any more!
+I thought that Microsoft was beginning to change and not do dumb moves like this any more!
 
 When Microsoft first rolled out a Music Service called MSN Music, I joined up and then they [killed it](https://en.wikipedia.org/wiki/MSN_Music), I still have those files which I PAID for and can't use.
 

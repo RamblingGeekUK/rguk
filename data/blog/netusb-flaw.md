@@ -21,4 +21,4 @@ I have tested my Vigor 2830 router and it appears to be OK.  I have also emaile
 
 NB: www.grc.com, is Steve Gibson's site, pleases see the below link for further information about Steve. [http://en.wikipedia.org/wiki/Steve\_Gibson\_(computer\_programmer)](http://en.wikipedia.org/wiki/Steve_Gibson_(computer_programmer))
 
-**UPDATE:** I had a reply from DrayTek, not much of one, confirming that this isn't an issues on there devices.
+**UPDATE:** I had a reply from DrayTek, not much of one, confirming that this isn't an issues on their devices.

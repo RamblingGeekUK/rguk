@@ -27,9 +27,12 @@ Comparing folders and started to notice files with extensions, "tmp", "bak" and 
 
 So now it was just a case of checking how many of these files that had the "bak", "tmp" and "~" extensions and hoping that the total matched the missing number of files.  I did this using PowerShell to find the files and then I did a count on them and here's the break down.
 
+
+```powershell
 $fileswithbak = Get-ChildItem -Filter "\*.bak" -Recurse
 $fileswithbak.count
 4483
+```
 
 Server-01 : Folder-01, Total files : 673,791
 

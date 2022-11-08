@@ -7,7 +7,7 @@ categories:
 
 Installed OS X Mavericks and VM Box now doesn't work. I've been getting the following error, failed to load VMMR0.r0 (VERR\_SUPLIB\_OWNER\_NOT\_ROOT).
 
-[![VB_ERR](https://www.ramblinggeek.co.uk/wp-content/uploads/2014/03/VB_ERR.jpg)](https://www.ramblinggeek.co.uk/wp-content/uploads/2014/03/VB_ERR.jpg)
+[![VB_ERR](/images/VB_ERR.jpg)]()
 
 Here's how to solve.
 

@@ -7,4 +7,4 @@ categories:
 
 Just after the release of iOS 8, users started commenting about it breaking the syncing of Notes entered with in a Dairy appointment.
 
-With the recent release of 8.3, it appears that the issue has been resolved.  Notes now appear within Outlook again.
+With the recent release of 8.3, it appears that the issue has been resolved. Notes now appear within Outlook again.

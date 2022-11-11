@@ -8,7 +8,7 @@ export const SITE = {
 	title: 'I'/'m a geek and I ramble.',
 	description: 'The personal website of Wayne Taylor aka RamblingGeek',
 
-	googleAnalyticsId: false, // or "G-XXXXXXXXXX",
+	googleAnalyticsId: "G-7BVHJMW2ZL", // or "G-XXXXXXXXXX",
 	googleSiteVerificationId: 'orcPxI47GSa-cRvY11tUe6iGg2IO_RPvnA1q95iEM3M',
 };
 

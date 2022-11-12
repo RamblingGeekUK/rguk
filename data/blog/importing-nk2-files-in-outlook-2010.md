@@ -9,4 +9,4 @@ In previous versions of Outlook, it was as simply as copying the NK2 (Nickname) 
 
 Now with Outlook 2010 and Exchange 2010, the nicknames are now stored on the server (at long last), we have to import them.
 
-There is a Microsoft Knowledge Article here, [KB980542](http://support.microsoft.com/kb/980542#ImportNK2Files_Outlook).
+There is a Microsoft Knowledge Article here, [KB980542](https://support.microsoft.com/kb/980542#ImportNK2Files_Outlook).

@@ -5,7 +5,7 @@ categories:
   - "general"
 ---
 
-[![image](http://ramberlinggeek.co.uk/wp-content/uploads/2011/02/image_thumb.png "image")](http://ramberlinggeek.co.uk/wp-content/uploads/2011/02/image.png)
+[![image](https://ramberlinggeek.co.uk/wp-content/uploads/2011/02/image_thumb.png "image")](https://ramberlinggeek.co.uk/wp-content/uploads/2011/02/image.png)
 
 Kept receiving this error trying to connect to Windows Server 2008 R2 – Remote Desktop Server. After using RD Web Access page.
 

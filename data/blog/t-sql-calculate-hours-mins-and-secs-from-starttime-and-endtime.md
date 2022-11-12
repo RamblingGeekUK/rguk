@@ -17,4 +17,4 @@ from SSR
 where CustomerID = 10  
 ) x  
   
-Thanks to this [site](http://www.sqlteam.com/article/working-with-time-spans-and-durations-in-sql-server) for the heads up.
+Thanks to this [site](https://www.sqlteam.com/article/working-with-time-spans-and-durations-in-sql-server) for the heads up.

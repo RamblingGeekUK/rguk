@@ -12,4 +12,4 @@ In many businesses, the network has been configured for Windows PCs to connect t
 3) Change the key UseWUServer from 1 to 0
 4) Restart the Windows Update service 5) Run Windows Update and it should connect and downloads start
 
-**SOURCE:**  [Eric's Blog](Blog http://erichagstrom.com/node/41)[](http://erichagstrom.com/node/41)
+**SOURCE:**  [Eric's Blog](Blog https://erichagstrom.com/node/41)[](https://erichagstrom.com/node/41)

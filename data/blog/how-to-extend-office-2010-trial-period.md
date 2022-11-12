@@ -19,4 +19,4 @@ C:\\Program Files\\Common Files\\Microsoft Shared\\Office\\Software\\Protection\
 
 C:\\Program Files (x86)\\Common Files\\Microsoft Shared\\Office\\Software\\Protection\\Platform
 
-3\. Now run the OSPPREARM.exe file located in one of the above folders and you should received a “Microsoft Office rearm successful” message if you receive “Error: 0xc004d307 On a computer running Microsoft Windows non-core edition, run ‘slui.exe 0x2a 0xc004d307’ to display the error text.”  This happens because all of the 5 rearms have been used. ![Smile](http://ramblinggeek.co.uk/wp-content/uploads/2012/01/wlEmoticon-smile.png)
+3\. Now run the OSPPREARM.exe file located in one of the above folders and you should received a “Microsoft Office rearm successful” message if you receive “Error: 0xc004d307 On a computer running Microsoft Windows non-core edition, run ‘slui.exe 0x2a 0xc004d307’ to display the error text.”  This happens because all of the 5 rearms have been used. ![Smile](https://ramblinggeek.co.uk/wp-content/uploads/2012/01/wlEmoticon-smile.png)

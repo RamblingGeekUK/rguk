@@ -7,4 +7,4 @@ categories:
 
 This looks cool..
 
-\[youtube=http://www.youtube.com/watch?v=V3HGfIy\_zCI&hl=en&fs=1\]
+\[youtube=https://www.youtube.com/watch?v=V3HGfIy\_zCI&hl=en&fs=1\]

@@ -25,8 +25,8 @@ Stop-Service w32time
 Start-Service w32time
 ```
 
-A List of Time Servers: [KB262860](http://support.microsoft.com/kb/262680) 
+A List of Time Servers: [KB262860](https://support.microsoft.com/kb/262680) 
 
-How to configure an authoritative time server in Windows Server: [KB816042](http://support.microsoft.com/kb/816042) [](http://support.microsoft.com/kb/816042)
+How to configure an authoritative time server in Windows Server: [KB816042](https://support.microsoft.com/kb/816042) [](https://support.microsoft.com/kb/816042)
 
-UK Time Server Pool can be found [here](http://www.pool.ntp.org/zone/uk).
+UK Time Server Pool can be found [here](https://www.pool.ntp.org/zone/uk).

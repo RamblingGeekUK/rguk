@@ -13,7 +13,7 @@ would appear when trying to connect to a remote server or computer.
 
 _**Note: These steps are best performed with Internet Explorer, as it involves downloading ActiveX controls.**_
 
-1. From a remote computer, go to your server's website. This will usually be "http://remote.example.com". You will see a message saying "There is a problem with this website's security certificate." Click "Continue to this website (not recommended)."
+1. From a remote computer, go to your server's website. This will usually be "https://remote.example.com". You will see a message saying "There is a problem with this website's security certificate." Click "Continue to this website (not recommended)."
 2. Login to Remote Web Access.
 3. You will see several options - click on **Public** in the **Shared Folders** group.
 4. Open the **Downloads** folder, then click on **Install Certificate Package.zip** to download it.
@@ -28,4 +28,4 @@ _**Note: These steps are best performed with Internet Explorer, as it involves d
 
 You should now open up a Remote Desktop Connection to the chosen server / computer.
 
-[Source](http://www.andrewstechnology.co.uk/reference/tips/44-sbs2011-rd-gateway-cant-verify-error.html)
+[Source](https://www.andrewstechnology.co.uk/reference/tips/44-sbs2011-rd-gateway-cant-verify-error.html)

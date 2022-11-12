@@ -5,7 +5,7 @@ categories:
   - "general"
 ---
 
-[Apple "orders 10m 3G iPhones" to appease Europe"](http://www.pcpro.co.uk/news/181827/apple-orders-10m-3g-iphones-to-appease-europe.html)
+[Apple "orders 10m 3G iPhones" to appease Europe"](https://www.pcpro.co.uk/news/181827/apple-orders-10m-3g-iphones-to-appease-europe.html)
 
 When Apple announced that it would be bringing support to Exchange ActiveSync to the iPhone, I'll admit I was tempted, after a little thought though, I would be giving up the following.
 

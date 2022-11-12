@@ -19,4 +19,4 @@ _Computer Configuration Administrative Templates Windows Components Remote Deskt
 
 **_5\. Navigate to the above path, double click to change to “Not Configured”.  Your Done! :-)_**
 
- [![image](http://ramblinggeek.co.uk/wp-content/uploads/2012/08/image_thumb.png "image")](http://ramblinggeek.co.uk/wp-content/uploads/2012/08/image.png)
+ [![image](https://ramblinggeek.co.uk/wp-content/uploads/2012/08/image_thumb.png "image")](https://ramblinggeek.co.uk/wp-content/uploads/2012/08/image.png)

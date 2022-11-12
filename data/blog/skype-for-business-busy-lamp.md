@@ -35,4 +35,4 @@ Next, I set about working out the Circut which wasn't the difficult as there are
 
 Links :
 
-https://blog.thoughtstuff.co.uk/2012/09/hacking-the-busylight/ https://learn.adafruit.com/rgb-led-strips/usage http://fritzing.org/home/
+https://blog.thoughtstuff.co.uk/2012/09/hacking-the-busylight/ https://learn.adafruit.com/rgb-led-strips/usage https://fritzing.org/home/

@@ -17,4 +17,4 @@ Not exactly sure why, but changing from a FQDN to a short name resolved the issu
 2. Change domain from FQDN (in my case Redmond.corp.microsoft.com) to the short name (in my case Redmond)
 3. Logout and log back in as the domain user.
 
-[Link](http://blogs.msdn.com/b/jongallant/archive/2008/11/19/solution-to-the-windows-exception-the-security-database-on-the-server-does-not-have-a-computer-account-for-this-workstation-trust-relationship.aspx) to original post.
+[Link](https://blogs.msdn.com/b/jongallant/archive/2008/11/19/solution-to-the-windows-exception-the-security-database-on-the-server-does-not-have-a-computer-account-for-this-workstation-trust-relationship.aspx) to original post.

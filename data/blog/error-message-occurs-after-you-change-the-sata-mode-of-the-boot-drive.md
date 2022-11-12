@@ -23,4 +23,4 @@ So here's the situation, PC dies you remove the hard drive and put it in a new P
 6. In the **Value data** box, type 0, and then click **OK**.
 7. On the **File** menu, click **Exit** to close Registry Editor.
 
-It may well boot, this worked for us.  The above is pulled from MS KB Article 922976, http://support.microsoft.com/kb/922976
+It may well boot, this worked for us.  The above is pulled from MS KB Article 922976, https://support.microsoft.com/kb/922976

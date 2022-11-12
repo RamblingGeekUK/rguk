@@ -9,11 +9,11 @@ I had an issue the other day when a user couldn't open an image attachment wit
 
 [![com-surrogate-has-stopped-working](/images/com-surrogate-has-stopped-working.png)](/images/com-surrogate-has-stopped-working/)
 
-After Googling the error and finding solutions regarding Nero and Video Codecs, which didn't seem correct to me, so after doing some further digging, the issue was with the Windows Photo Viewer, I then found this [article](http://blog.nolar.info/com-surrogate-has-stopped-working-in-windows-photo-viewer/) which resolved the issue.
+After Googling the error and finding solutions regarding Nero and Video Codecs, which didn't seem correct to me, so after doing some further digging, the issue was with the Windows Photo Viewer, I then found this [article](https://blog.nolar.info/com-surrogate-has-stopped-working-in-windows-photo-viewer/) which resolved the issue.
 
 The resolution is to replace the Windows Photo View Files, with a working set.
 
-1. Copy "C:\\Program Files\\Windows Photo Viewer" from a working or healthy PC, via USB, Network or you can download it from [here](http://sdrv.ms/17uSSOM).
+1. Copy "C:\\Program Files\\Windows Photo Viewer" from a working or healthy PC, via USB, Network or you can download it from [here](https://sdrv.ms/17uSSOM).
 
 2. Open your “C:\\Program Files”.
 

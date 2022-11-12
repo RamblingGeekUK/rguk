@@ -9,4 +9,4 @@ As Microsoft has opened up the VHD file format would it not be cool if you could
 
 This would be very useful..... 
 
- UPDATE: Regarding VISTA Complete PC, see [here](http://blogs.zdnet.com/Bott/?p=68).
+ UPDATE: Regarding VISTA Complete PC, see [here](https://blogs.zdnet.com/Bott/?p=68).

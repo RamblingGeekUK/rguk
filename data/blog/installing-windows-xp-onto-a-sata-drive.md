@@ -11,6 +11,6 @@ So at this point you have two choices, USB FDD or network install.  USB FDD wil
 
 A google later and I came across nLite, which makes slip streaming easy.  Worked on my first go!  UX is nice and and easy and it creates a bootable ISO for you, really impressed.
 
-If you intrested go take a look [http://www.nliteos.com](http://www.nliteos.com)....
+If you intrested go take a look [https://www.nliteos.com](https://www.nliteos.com)....
 
 Enjoy :-)

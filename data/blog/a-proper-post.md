@@ -17,9 +17,9 @@ There was also the shock announcement from Microsoft, regarding the departure of
 
 Apple releases the iPad Mini as well as updated most of its products, including a New iPad just a few months after the last update.
 
-The Nexus range of devices from Google, with the [Nexus 10](http://www.pcpro.co.uk/reviews/tablets/378280/nexus-10) looks like a very compelling product.
+The Nexus range of devices from Google, with the [Nexus 10](https://www.pcpro.co.uk/reviews/tablets/378280/nexus-10) looks like a very compelling product.
 
-Then there’s the crazy situation with [John McAfee](http://www.whoismcafee.com/watchfulness/) and HP’s write-down on UK company Autonomy.
+Then there’s the crazy situation with [John McAfee](https://www.whoismcafee.com/watchfulness/) and HP’s write-down on UK company Autonomy.
 
 I feel like I’m just scratching the surface (no pun intended), of what's been going on lately. So as you can see I’m still here and I’ve not gone inactive.
 

@@ -11,4 +11,4 @@ Not had much of a play around yet, but why not just have a plug in for word, may
 
 Anyway if you wish to use it, you can get it from here.
 
-[http://windowslivewriter.spaces.live.com/](http://windowslivewriter.spaces.live.com/)
+[https://windowslivewriter.spaces.live.com/](https://windowslivewriter.spaces.live.com/)

@@ -5,7 +5,7 @@ categories:
   - "general"
 ---
 
-I wanted to install the RSAT tools on to my desktop PC to manage my lab servers, which don't have monitors connected.  I downloaded the RSAT tools from [here](http://www.microsoft.com/en-gb/download/details.aspx?id=28972) and ran the installation, nothing actually installed.
+I wanted to install the RSAT tools on to my desktop PC to manage my lab servers, which don't have monitors connected.  I downloaded the RSAT tools from [here](https://www.microsoft.com/en-gb/download/details.aspx?id=28972) and ran the installation, nothing actually installed.
 
 So I went back to the KB article and it mentioned about installing the language pack and seemed to imply to install any language and then install the RSAT tools, which I tried and still no joy.
 
@@ -24,8 +24,8 @@ If your having this issue it appears to happen because the UK installation media
     
 4. There is no need to Turn them on via Windows Control Panel, there on by default.
 
-[![RSAT Installation Windows 8 Pro](http://ramblinggeek.co.uk/wp-content/uploads/2013/01/RSAT-Installation-Windows-8-Pro.png)](http://ramblinggeek.co.uk/2013/01/windows-8-installing-rsat-tools-nothing-happens/rsat-installation-windows-8-pro/)
+[![RSAT Installation Windows 8 Pro](https://ramblinggeek.co.uk/wp-content/uploads/2013/01/RSAT-Installation-Windows-8-Pro.png)](https://ramblinggeek.co.uk/2013/01/windows-8-installing-rsat-tools-nothing-happens/rsat-installation-windows-8-pro/)
 
 Sorry for the lengthy post, I wanted to try and make this easy as possible as well as explaining what was going on.
 
-UPDATE:  Micheal Halpin has wrote a PowerShell script to check the installed language packs.  Which can be found [here](http://michealhalpin.com/blog/index.php/issues-installing-remote-server-administration-tools-for-windows-8/).
+UPDATE:  Micheal Halpin has wrote a PowerShell script to check the installed language packs.  Which can be found [here](https://michealhalpin.com/blog/index.php/issues-installing-remote-server-administration-tools-for-windows-8/).

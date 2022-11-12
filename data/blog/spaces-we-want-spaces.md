@@ -11,7 +11,7 @@ After reading thru the manual, it states that you can!  So we tried this via th
 
 This is very disappointing.  Below is a screenshot where it states that you can use a key with spaces.
 
-[![clip_image002](http://ramberlinggeek.co.uk/wp-content/uploads/2010/08/clip_image002_thumb.jpg "clip_image002")](http://ramberlinggeek.co.uk/wp-content/uploads/2010/08/clip_image002.jpg)
+[![clip_image002](https://ramberlinggeek.co.uk/wp-content/uploads/2010/08/clip_image002_thumb.jpg "clip_image002")](https://ramberlinggeek.co.uk/wp-content/uploads/2010/08/clip_image002.jpg)
 
 UPDATE:  Beta firmware released with spaces.
 

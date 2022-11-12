@@ -17,4 +17,4 @@ The solution appears to be to login to the PC locally and search for all files w
 
 This worked for me, I hope it works for you.
 
-Source: [Forum](http://community.spiceworks.com/topic/88886-windows-7-user-profile-service-failed-the-logon)
+Source: [Forum](https://community.spiceworks.com/topic/88886-windows-7-user-profile-service-failed-the-logon)

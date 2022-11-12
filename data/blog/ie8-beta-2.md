@@ -7,4 +7,4 @@ categories:
 
 IE Beta 2 has been released, yesterday. I played around with it on my laptop last night, but didn’t get around to blogging about it.  I like what I’m seeing with this release.
 
-[Linky](http://www.microsoft.com/windows/internet-explorer/beta/)
+[Linky](https://www.microsoft.com/windows/internet-explorer/beta/)

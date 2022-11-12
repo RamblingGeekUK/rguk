@@ -5,9 +5,9 @@ categories:
   - "general"
 ---
 
-This year started so fast I’m still catching up with myself.  ![Smile](http://ramberlinggeek.co.uk/wp-content/uploads/2011/02/wlEmoticon-smile.png)
+This year started so fast I’m still catching up with myself.  ![Smile](https://ramberlinggeek.co.uk/wp-content/uploads/2011/02/wlEmoticon-smile.png)
 
-The new job has been really hectic and home life hasn’t been much different.   Lisa and I have been getting to all those jobs that have been put off and are making good progress.  However once you start on the jobs around the house you always seem to find more. ![Smile](http://ramberlinggeek.co.uk/wp-content/uploads/2011/02/wlEmoticon-smile.png)
+The new job has been really hectic and home life hasn’t been much different.   Lisa and I have been getting to all those jobs that have been put off and are making good progress.  However once you start on the jobs around the house you always seem to find more. ![Smile](https://ramberlinggeek.co.uk/wp-content/uploads/2011/02/wlEmoticon-smile.png)
 
 I’ve just looked it up and I can’t believe that I moved this blog from word press hosted to self hosted more than a year ago.
 

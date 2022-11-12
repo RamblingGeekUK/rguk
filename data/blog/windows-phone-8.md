@@ -5,8 +5,8 @@ categories:
   - "general"
 ---
 
-<iframe src="http://www.youtube.com/embed/SQZEkXCE_fY?rel=0" frameborder="0" width="560" height="315"></iframe>
+<iframe src="https://www.youtube.com/embed/SQZEkXCE_fY?rel=0" frameborder="0" width="560" height="315"></iframe>
 
  
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/B9zhklbjw20" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B9zhklbjw20" frameborder="0" allowfullscreen></iframe>

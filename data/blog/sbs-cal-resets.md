@@ -11,7 +11,7 @@ SBS resets the cal count to 5!
 
 We have just had a customer call and this has happened to.  Normally we backup the CALS using the built in backup utility within SBS Console.
 
-Found this MS KB [888818](http://support.microsoft.com/?kbid=888818), which isn't really much help.
+Found this MS KB [888818](https://support.microsoft.com/?kbid=888818), which isn't really much help.
 
 Te SBS2003 licenses are kept in the licstr.cpa file in the WINDOWSsystem32 folder.
 
@@ -22,4 +22,4 @@ Te SBS2003 licenses are kept in the licstr.cpa file in the WINDOWSsystem32 folde
 - Start License Logging Service
 - Open Server Management to confirm that the licenses had been restored.
 
-Then found post on [Knight-Time Ramblings](http://blog.chrisara.com.au/2006/09/small-business-server-2003-dreaded-5.html) which worked!
+Then found post on [Knight-Time Ramblings](https://blog.chrisara.com.au/2006/09/small-business-server-2003-dreaded-5.html) which worked!

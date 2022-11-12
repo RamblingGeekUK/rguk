@@ -11,4 +11,4 @@ Windows Server 2008 R2:
 2. Double-click **RDP-Tcp** in the Connections panel.
 3. Click **Client Settings**, clear the "Audio and video playback" and "Audio recording" checkbox.
 
-Source: [http://social.technet.microsoft.com/wiki/contents/articles/731.hyper-v-troubleshooting-enabling-audio-over-rdp.aspx](http://social.technet.microsoft.com/wiki/contents/articles/731.hyper-v-troubleshooting-enabling-audio-over-rdp.aspx)
+Source: [https://social.technet.microsoft.com/wiki/contents/articles/731.hyper-v-troubleshooting-enabling-audio-over-rdp.aspx](https://social.technet.microsoft.com/wiki/contents/articles/731.hyper-v-troubleshooting-enabling-audio-over-rdp.aspx)

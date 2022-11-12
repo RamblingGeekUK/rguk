@@ -7,6 +7,6 @@ categories:
 
 This is amazing Microsoft finally getting that the really need to push the phones and I think these are great!
 
-<iframe src="http://www.youtube.com/embed/Y8PPxEkkYfE?rel=0" height="315" width="560" allowfullscreen frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/Y8PPxEkkYfE?rel=0" height="315" width="560" allowfullscreen frameborder="0"></iframe>
 
-<iframe src="http://www.youtube.com/embed/N6xI7Q-9o3M?rel=0" height="315" width="560" allowfullscreen frameborder="0"></iframe>
+<iframe src="https://www.youtube.com/embed/N6xI7Q-9o3M?rel=0" height="315" width="560" allowfullscreen frameborder="0"></iframe>

@@ -7,7 +7,7 @@ categories:
 
 **The Want**
 
-To switch back to an iPhone from Windows Phone (another post coming [here](http://ramblinggeek.co.uk/2012/02/the-great-windows-phone-to-iphone-switch-back/ "The Great Windows Phone to iPhone switch (back)") to explain the reasons).
+To switch back to an iPhone from Windows Phone (another post coming [here](https://ramblinggeek.co.uk/2012/02/the-great-windows-phone-to-iphone-switch-back/ "The Great Windows Phone to iPhone switch (back)") to explain the reasons).
 
 **The Problem**
 
@@ -27,7 +27,7 @@ So the next problem to be over come was that of networks and SIM’s.   For me
 
 So I had a look on the O2’s website and found the following:
 
-[![O2 unlock form](http://ramblinggeek.co.uk/wp-content/uploads/2012/02/O2-unlock-form_thumb.jpg "O2 unlock form")](http://ramblinggeek.co.uk/wp-content/uploads/2012/02/O2-unlock-form.jpg)
+[![O2 unlock form](https://ramblinggeek.co.uk/wp-content/uploads/2012/02/O2-unlock-form_thumb.jpg "O2 unlock form")](https://ramblinggeek.co.uk/wp-content/uploads/2012/02/O2-unlock-form.jpg)
 
 Just in case you can’t make out the screenshot, it read’s:
 
@@ -59,7 +59,7 @@ So the wife and I popped into a local O2 store and I asked the assistant if what
 
 So we went though the upgrade, 30 minutes later we left the store with a new iPhone 4s with my wife’s number now transferred to a Micro SIM.  For those following, this presented another issue which I already had the solution, more on that later.
 
-Once we had arrived home, I promptly filled in the unlock form online and all I could do next was to wait, while my wife had to use the iPhone 4s until the unlock was completed.   The next day I received[![micro sim cutter](http://ramblinggeek.co.uk/wp-content/uploads/2012/02/micro-sim-cutter_thumb.png "micro sim cutter")](http://ramblinggeek.co.uk/wp-content/uploads/2012/02/micro-sim-cutter.png) an email from O2, telling me that the phone had been unlocked and it would hit the phone within the next 3 days.
+Once we had arrived home, I promptly filled in the unlock form online and all I could do next was to wait, while my wife had to use the iPhone 4s until the unlock was completed.   The next day I received[![micro sim cutter](https://ramblinggeek.co.uk/wp-content/uploads/2012/02/micro-sim-cutter_thumb.png "micro sim cutter")](https://ramblinggeek.co.uk/wp-content/uploads/2012/02/micro-sim-cutter.png) an email from O2, telling me that the phone had been unlocked and it would hit the phone within the next 3 days.
 
 2 days later my wife received a text informing us that the phone had been unlocked.  I’ll be honest I didn’t expect it to go as smoothly as it did and I’m impressed with O2 for doing what they said they would on there site, which as we know isn’t always the case.
 

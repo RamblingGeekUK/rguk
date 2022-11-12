@@ -19,4 +19,4 @@ Note: the folder ‘AutomaticDestinations’ is hidden
 
 Note: If you cannot find any file sized 1MB or more then delete all the files. This will eventually remove the Jump Lists’ recent items for all the applications. The recent items on the Jump Lists will be re-added as the program is been used. If you delete all the files then ensure that the applications are pinned again to the taskbar
 
-Information reproduced from [here](http://answers.microsoft.com/en-us/office/forum/officeversion_other-word/list-of-recent-documents-not-showing-up-in-task/8f63be2f-67b0-463e-995e-8274adefdcbe).
+Information reproduced from [here](https://answers.microsoft.com/en-us/office/forum/officeversion_other-word/list-of-recent-documents-not-showing-up-in-task/8f63be2f-67b0-463e-995e-8274adefdcbe).

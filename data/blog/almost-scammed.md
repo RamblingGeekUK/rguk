@@ -4,6 +4,7 @@ publishDate: "2017-05-30"
 categories: 
   - "general"
 authors: "Wayne"
+image: "~/assets/images/fakeoffice.png"
 ---
 
 My sister-in-law purchases a new computer from what I deem a respectable retailer and to be clear, I think this is still the case.

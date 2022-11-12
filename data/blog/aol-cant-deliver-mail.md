@@ -5,7 +5,7 @@ categories:
   - "general"
 ---
 
-plaintext
+```plaintext
 #5.2.1 smtp; 521 5.2.1 : AOL will not accept delivery of this message
 ```
 

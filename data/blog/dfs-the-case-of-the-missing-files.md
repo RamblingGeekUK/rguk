@@ -15,7 +15,9 @@ So I started investigating what was going on, at first I thought no replicating 
 
 When I found the dialogue to change the staging size, there was a link on that dialogue which explained staging and what was required to set the right size, you have to take the top 32 largest files and total them up and this is the figure that your staging should be set to, it only uses it if it required to and if it gets within predefined thresholds, the oldest files will be removed from the staging area.   The article provides a PowerShell script to total up the staging size:
 
+```powershell
 (Get-ChildItem -recurse –force | Sort-Object length -descending | select-object -first 32 | measure-object -property length -sum).sum /1GB
+```
 
 More information regarding this can be found here: [https://technet.microsoft.com/library/dn465158.aspx](https://technet.microsoft.com/library/dn465158.aspx)](https://technet.microsoft.com/library/dn465158.aspx)
 

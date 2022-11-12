@@ -1,6 +1,10 @@
 ---
-import { Icon } from 'astro-icon';
 import Picture from '~/components/core/Picture.astro';
+
+var startYear = new Date(1995,5,9);   // The Date I started working for Parity Computers. 🙂
+var today = new Date();
+
+var yearsDiff = today.getFullYear() - startYear.getFullYear();
 ---
 
 <section>
@@ -12,7 +16,8 @@ import Picture from '~/components/core/Picture.astro';
 				</h1>
 				<div class="max-w-3xl mx-auto">
 					<p class="text-xl text-gray-600 mb-8 dark:text-slate-400">
-						I have been working in IT Support for the last 27 years for SME's. <br>
+						I have been working in IT industry for the last {yearsDiff} years.
+						<br>
 						Recently I moved into a development role.
 					</p>
 				</div>

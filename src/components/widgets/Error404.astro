@@ -1,5 +1,6 @@
 ---
 import { getHomePermalink } from '~/utils/permalinks';
+import Picture from '~/components/core/Picture.astro';
 ---
 
 <section class="flex items-center h-full p-16">
@@ -13,6 +14,17 @@ import { getHomePermalink } from '~/utils/permalinks';
 			<p class="mt-4 mb-8 text-lg text-gray-600 dark:text-slate-400">
 				But dont worry, you can find plenty of other things on our homepage.
 			</p>
+			<div>
+				<div class="relative mb-8 m-auto max-w-3xl">
+					<Picture
+						src={import('~/assets/images/rg-hero-tp.png')}
+						widths={[1152, 720]}
+						sizes=" (max-width: 767px) 400px, 768px"
+						alt="Hero Image"
+						aspectRatio="16:9"
+					/>
+				</div>
+			</div>
 			<a
 				rel="noopener noreferrer"
 				href={getHomePermalink()}
@@ -20,5 +32,6 @@ import { getHomePermalink } from '~/utils/permalinks';
 				>Back to homepage</a
 			>
 		</div>
+	
 	</div>
 </section>

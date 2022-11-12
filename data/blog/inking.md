@@ -5,4 +5,4 @@ categories:
   - "general"
 ---
 
-![](http://kryptossolutions.files.wordpress.com/2006/08/WindowsLiveWriter/Inking_11374/Ink.gif)
+![](https://kryptossolutions.files.wordpress.com/2006/08/WindowsLiveWriter/Inking_11374/Ink.gif)

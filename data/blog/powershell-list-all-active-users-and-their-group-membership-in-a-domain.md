@@ -17,7 +17,7 @@ So you need to know which users are members of which group... this little PowerS
 Set-ExecutionPolicy RemoteSigned
 ```
 
-Full Documentation [here](http://technet.microsoft.com/en-us/library/ee176949.aspx).
+Full Documentation [here](https://technet.microsoft.com/en-us/library/ee176949.aspx).
 
 Now run the file that you created above, and ensure you have a folder on the root of the C: drive called "tmp" or change the script to your folder.
 

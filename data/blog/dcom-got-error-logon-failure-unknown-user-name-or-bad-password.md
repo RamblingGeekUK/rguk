@@ -9,7 +9,7 @@ I was getting a lot of these errors in the system event log on one of the server
 
 [![image](/images/dcom2.png "image")](/images/dcom2.png)
 
-This thread put me on the right track to resolving the problem, [http://www.daniweb.com/forums/thread39730.html](http://www.daniweb.com/forums/thread39730.html)
+This thread put me on the right track to resolving the problem, [https://www.daniweb.com/forums/thread39730.html](https://www.daniweb.com/forums/thread39730.html)
 
 1. Go to Start > Programs > Administrative Tools > Component Services  
 

@@ -15,7 +15,7 @@ To get this working is fairly simple, you need to go [here](https://www.blackber
 
 [![image](/images/image_thumb.png "image")](/images/image.png)
 
-Once downloaded and installed you will then need to download a simulator which can be downloaded from [here](http://na.blackberry.com/eng/developers/resources/simulators.jsp).
+Once downloaded and installed you will then need to download a simulator which can be downloaded from [here](https://na.blackberry.com/eng/developers/resources/simulators.jsp).
 
 [![image](/images/image_thumb1.png "image")](/images/image1.png)
 

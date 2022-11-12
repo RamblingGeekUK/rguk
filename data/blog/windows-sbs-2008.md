@@ -17,7 +17,7 @@ So I downloaded a trial of VMWare Workstation, it installed OK, no problem…. u
 
 Apart from I don’t want to have to keep using trails to play around with SBS 2008 RC0, I just want to be able to play around when I have time too.
 
-So posted on [Channel9](http://channel9.msdn.com/forums/Coffeehouse/412389-Virtual-PCHyper-V/) and 9er,  Hodo,  replied saying I could download VMWare server for free!!
+So posted on [Channel9](https://channel9.msdn.com/forums/Coffeehouse/412389-Virtual-PCHyper-V/) and 9er,  Hodo,  replied saying I could download VMWare server for free!!
 
 Great, downloaded it this evening and it’s hell….
 

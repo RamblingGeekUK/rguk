@@ -5,6 +5,6 @@ categories:
   - "general"
 ---
 
-\[youtube=http://www.youtube.com/watch?v=-St\_ltH90Oc&hl=en&fs=1\]
+\[youtube=https://www.youtube.com/watch?v=-St\_ltH90Oc&hl=en&fs=1\]
 
 This is a shame.... but telling of security, if was secure what they worried about?

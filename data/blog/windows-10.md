@@ -11,7 +11,7 @@ tags:
 
 You can Download the Windows 10 Technical Preview for Enterprise Direct here once it gets published on the Windows Insider Program **on October 1st 2014.** The download will offer a burnable/bootable ISO-file of around 4GB.
 
-[http://www.microsoft.com/en-us/evalcenter/evaluate-windows-technical-preview-for-enterprise](http://www.microsoft.com/en-us/evalcenter/evaluate-windows-technical-preview-for-enterprise)
+[https://www.microsoft.com/en-us/evalcenter/evaluate-windows-technical-preview-for-enterprise](https://www.microsoft.com/en-us/evalcenter/evaluate-windows-technical-preview-for-enterprise)
 
 - Windows 10 will bring back a **full featured Start menu** as a mix of the traditional one found on Windows 7 combined with Modern UI tiles of Windows 8.
 
@@ -24,4 +24,4 @@ You can Download the Windows 10 Technical Preview for Enterprise Direct here o
 
 Microsoft have version jumped before, with Word from 2.0 to 6, way back in 1993, yes I'm old enough to remember that far back! :-)
 
-[http://en.wikipedia.org/wiki/Microsoft\_Word](http://en.wikipedia.org/wiki/Microsoft_Word)
+[https://en.wikipedia.org/wiki/Microsoft\_Word](https://en.wikipedia.org/wiki/Microsoft_Word)

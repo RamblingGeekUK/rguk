@@ -7,7 +7,7 @@ categories:
 
 I've been reading the following posts from Paul Thurrott.
 
-[Windows 8: Sinofsky @ D9 Transcribed, Part 1](http://www.winsupersite.com/article/Windows8/windows-8-sinofsky-d9-transcribed-139555)
+[Windows 8: Sinofsky @ D9 Transcribed, Part 1](https://www.winsupersite.com/article/Windows8/windows-8-sinofsky-d9-transcribed-139555)
 
 [Windows 8: Sinofsky @ D9 Transcribed, Part 2: The Demo](/article/Windows8/windows-8-sinofsky-d9-transcribed-part-2-demo-139575)
 

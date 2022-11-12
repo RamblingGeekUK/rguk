@@ -17,19 +17,19 @@ After thinking to myself "There Must Be a Better Way" I found the article noted 
 
 3\. It will quickly scan your computer. Then it will display a window like the one below. You need to click "Clean up system files". If prompted by UAC, then click on Yes. (See image below)
 
-[![clean_up](/images/clean_up.png)](http://ramblinggeek.co.uk/2013/09/quickly-removing-windows-old/clean_up/)
+[![clean_up](/images/clean_up.png)](https://ramblinggeek.co.uk/2013/09/quickly-removing-windows-old/clean_up/)
 
 4\. It will again ask you to select the OS and scan your computer. (See image below)
 
-[![os_select](/images/os_select.png)](http://ramblinggeek.co.uk/2013/09/quickly-removing-windows-old/os_select/)
+[![os_select](/images/os_select.png)](https://ramblinggeek.co.uk/2013/09/quickly-removing-windows-old/os_select/)
 
 5\. Make sure "Previous windows installations" is ticked and click Ok. (See image below)
 
-[![prev_win_inst](/images/prev_win_inst.png)](http://ramblinggeek.co.uk/2013/09/quickly-removing-windows-old/prev_win_inst/)
+[![prev_win_inst](/images/prev_win_inst.png)](https://ramblinggeek.co.uk/2013/09/quickly-removing-windows-old/prev_win_inst/)
 
 6\. Click delete files. (See image below)
 
-[![del_files](/images/del_files.png)](http://ramblinggeek.co.uk/2013/09/quickly-removing-windows-old/del_files/)
+[![del_files](/images/del_files.png)](https://ramblinggeek.co.uk/2013/09/quickly-removing-windows-old/del_files/)
 
 7\. Windows.old should now be deleted.
 
@@ -47,4 +47,4 @@ and hit enter.
 
 Hope this has helped! :-)
 
-**SOURCE:** [HowToGeek Forum](http://www.howtogeek.com/forum/topic/how-to-delete-the-windowsold-folder)
+**SOURCE:** [HowToGeek Forum](https://www.howtogeek.com/forum/topic/how-to-delete-the-windowsold-folder)

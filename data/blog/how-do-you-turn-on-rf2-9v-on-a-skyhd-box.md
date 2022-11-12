@@ -7,4 +7,4 @@ categories:
 
 On a Sky+HD box, the hidden menu is Services 0 0 1 & press Select. Then go to RF Outlets and turn the power on, remembering to save the settings.
 
-The above also works on the new Sky Boxes being shipped.  ![Smile](http://ramblinggeek.co.uk/wp-content/uploads/2011/06/wlEmoticon-smile.png)
+The above also works on the new Sky Boxes being shipped.  ![Smile](https://ramblinggeek.co.uk/wp-content/uploads/2011/06/wlEmoticon-smile.png)

@@ -9,4 +9,4 @@ This seems to have been kept very quite... Virtual Server now runs on Vista.. :-
 
 At last I can build small test networks.... No information on the blogs that I subscribe to....
 
-[Download](http://www.microsoft.com/windowsserversystem/virtualserver/downloads.aspx)
+[Download](https://www.microsoft.com/windowsserversystem/virtualserver/downloads.aspx)

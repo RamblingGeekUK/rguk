@@ -17,7 +17,7 @@ When you google this you will likely find the blog post by Elio Struyf for his p
 
 I didn't want to go to the bother of setting up HomeBridge as I am already running Home Assistant.
 
-However, Elio wrote what he calls the Unicorn Busy Server that runs on a Pi and controls the colours of the WaveShare RGB pHAT.  All that is required is a simple API call to change the colour of the RGB HAT, so calling http://192.168.0.110:5000/api/green would change the LEDs too, you guessed it, green!
+However, Elio wrote what he calls the Unicorn Busy Server that runs on a Pi and controls the colours of the WaveShare RGB pHAT.  All that is required is a simple API call to change the colour of the RGB HAT, so calling https://192.168.0.110:5000/api/green would change the LEDs too, you guessed it, green!
 
 So once that was set up, it was then a case of popping in the URLs to Presence Light App's Custom API tab and with that, you have a working Teams Busy Lamp.
 

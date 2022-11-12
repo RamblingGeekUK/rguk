@@ -5,7 +5,7 @@ categories:
   - "general"
 ---
 
-[![iPhone, Siri Response](http://ramblinggeek.co.uk/wp-content/uploads/2012/05/photo_thumb1.png "iPhone, Siri Response")](http://ramblinggeek.co.uk/wp-content/uploads/2012/05/photo1.png)
+[![iPhone, Siri Response](https://ramblinggeek.co.uk/wp-content/uploads/2012/05/photo_thumb1.png "iPhone, Siri Response")](https://ramblinggeek.co.uk/wp-content/uploads/2012/05/photo1.png)
 
 Yesterday I saw a tweet from @appleboyy with a screen shot of a iPhone’s Siri function displaying Windows Phone as the best selling phone.  I tried this myself and it indeed did the same.
 

@@ -27,7 +27,7 @@ public ActionResult GetPDFReport(int? id)
    WebClient client = new WebClient();
    client.Credentials = nwc;
             
-   string reportURL = "http://servername//ReportServer?PO&rs:Format=PDF&rs:ClearSession=true&Param1=" + id;
+   string reportURL = "https://servername//ReportServer?PO&rs:Format=PDF&rs:ClearSession=true&Param1=" + id;
    return File(client.DownloadData(reportURL), "application/pdf", filename);
 }
 ```

@@ -5,7 +5,7 @@ categories:
   - "general"
 ---
 
-[![google ](http://ramblinggeek.co.uk/wp-content/uploads/2011/07/google_thumb.jpg "google ")](http://ramblinggeek.co.uk/wp-content/uploads/2011/07/google.jpg)
+[![google ](https://ramblinggeek.co.uk/wp-content/uploads/2011/07/google_thumb.jpg "google ")](https://ramblinggeek.co.uk/wp-content/uploads/2011/07/google.jpg)
 
 So their has been a lot in the tech press or the so called blogosphere about Google+ not supporting business.  From what I can can work out if you use Google apps account you are considered a business.
 

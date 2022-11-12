@@ -13,4 +13,4 @@ This is what worked for me the last time I ran into the above problem
 
 Select "Tools", then "Internet options". Select the "Security" tab. Select "Trusted Sites". Click on the "Sites" button.
 
-Add your remote access web site to the list of trusted sites. You can add both http://domainname.com and https://domainname.com
+Add your remote access web site to the list of trusted sites. You can add both https://domainname.com and https://domainname.com

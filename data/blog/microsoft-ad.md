@@ -5,7 +5,7 @@ categories:
   - "general"
 ---
 
-Here's the next ad from Microsoft [http://www.microsoft.com/windows/](http://www.microsoft.com/windows/ "http://www.microsoft.com/windows/")
+Here's the next ad from Microsoft [https://www.microsoft.com/windows/](https://www.microsoft.com/windows/ "https://www.microsoft.com/windows/")
 
 I'm still not 100% sure what it's about, but it seems trying to say Microsoft is reconnecting with the everyday user/consumer.... still fun thou.
 

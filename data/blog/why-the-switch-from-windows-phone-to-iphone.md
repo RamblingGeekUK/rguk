@@ -5,7 +5,7 @@ categories:
   - "general"
 ---
 
-I said in the blog post [The Great Windows Phone to iPhone switch (back)](http://ramblinggeek.co.uk/2012/02/the-great-windows-phone-to-iphone-switch-back/) that I would post why I switched, this is that post, it’s taken some time for me to write, sorry for the wait.
+I said in the blog post [The Great Windows Phone to iPhone switch (back)](https://ramblinggeek.co.uk/2012/02/the-great-windows-phone-to-iphone-switch-back/) that I would post why I switched, this is that post, it’s taken some time for me to write, sorry for the wait.
 
 I really want Windows Phone to succeed, yes even now.  I can develop already using Microsoft’s languages, so if it becomes a success, then it would be better for me to quickly develop app’s and make some money.
 

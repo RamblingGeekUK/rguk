@@ -5,10 +5,10 @@ categories:
   - "general"
 ---
 
-So I wanted to upload a file or files from a Windows Application that I was developing, so a quick lookup on MSDN provided the following ([link](http://msdn.microsoft.com/en-us/library/w3kksch7(v=vs.90).aspx)): -
+So I wanted to upload a file or files from a Windows Application that I was developing, so a quick lookup on MSDN provided the following ([link](https://msdn.microsoft.com/en-us/library/w3kksch7(v=vs.90).aspx)): -
 
 My.Computer.Network.UploadFile ( "C:My DocumentsOrder.txt", \_
-[http://www.cohowinery.com/upload.aspx](http://www.cohowinery.com/upload.aspx))
+[https://www.cohowinery.com/upload.aspx](https://www.cohowinery.com/upload.aspx))
 
 .csharpcode, .csharpcode pre
 {
@@ -37,7 +37,7 @@ My.Computer.Network.UploadFile ( "C:My DocumentsOrder.txt", \_
 
 On the face of it it couldn’t be easier.  If you take a look at the How To article, you can see that it doesn’t explain how to code the web side of the app or what's required.
 
-After much Googling, I finally come up with the answer, UploadFile is a wrapped for the WebClient.UploadFile Method.   Reading this [article](http://msdn.microsoft.com/en-us/library/36s52zhs.aspx) provides more information.
+After much Googling, I finally come up with the answer, UploadFile is a wrapped for the WebClient.UploadFile Method.   Reading this [article](https://msdn.microsoft.com/en-us/library/36s52zhs.aspx) provides more information.
 
 The receiving ASPX page or upload.aspx as in the above example, requires the following code.
 

@@ -5,7 +5,7 @@ categories:
   - "general"
 ---
 
-Before reading on, please see this post first [http://ramberlinggeek.co.uk/2010/01/ipad/](http://ramberlinggeek.co.uk/2010/01/ipad/)
+Before reading on, please see this post first [https://ramberlinggeek.co.uk/2010/01/ipad/](https://ramberlinggeek.co.uk/2010/01/ipad/)
 
 Ok, welcome back.  I’ve had a change of heart or I’ve been sucked into Steve Job’s reality distortion field.
 

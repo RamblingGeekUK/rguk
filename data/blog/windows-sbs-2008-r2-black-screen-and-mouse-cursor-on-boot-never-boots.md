@@ -5,7 +5,7 @@ categories:
   - "general"
 ---
 
-After spending a full day on this, we [(Your IT Pro](http://www.youritpro.co.uk/) and I) finally got it to boot by restoring the registry from a backup which windows keeps.
+After spending a full day on this, we [(Your IT Pro](https://www.youritpro.co.uk/) and I) finally got it to boot by restoring the registry from a backup which windows keeps.
 
 Boot into Windows Recovery command prompt and do the following:-
 

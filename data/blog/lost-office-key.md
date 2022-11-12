@@ -13,7 +13,7 @@ After getting passed around and eventually speaking to someone at Microsoft, I w
 
 While we were waiting for a solution from Microsoft we installed an trail version of Office, well yesterday it expired so the customer was left with office in a reduced functionality.
 
-A little look on the web and I discovered a great utility, Magical Jelly Bean Keyfinder, [http://www.magicaljellybean.com/keyfinder/](http://www.magicaljellybean.com/keyfinder/ "http://www.magicaljellybean.com/keyfinder/").  Which scans the registry and pull’s the keys out.  As we had a ghost image of the PC before it was formatted we mounted the backup image so we could access via a drive letter and used the software to open its registry which gave us the original key.
+A little look on the web and I discovered a great utility, Magical Jelly Bean Keyfinder, [https://www.magicaljellybean.com/keyfinder/](https://www.magicaljellybean.com/keyfinder/ "https://www.magicaljellybean.com/keyfinder/").  Which scans the registry and pull’s the keys out.  As we had a ghost image of the PC before it was formatted we mounted the backup image so we could access via a drive letter and used the software to open its registry which gave us the original key.
 
 This was the only way we could recover the key legally!
 

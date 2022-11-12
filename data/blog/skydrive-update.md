@@ -5,11 +5,11 @@ categories:
   - "general"
 ---
 
-Microsoft today have announced the local client download, think dropbox, for Windows and Mac OS X Lion.   They have also announced reduction of the free 25GB to 7GB, existing users can claim to keep there 25GB, Click [here](http://windows.microsoft.com/en-us/skydrive/loyalty) for Microsoft site for me details.  Sign in now to claim it before you lose it.   Login to your account and click the link to keep your current 25GB storage.
+Microsoft today have announced the local client download, think dropbox, for Windows and Mac OS X Lion.   They have also announced reduction of the free 25GB to 7GB, existing users can claim to keep there 25GB, Click [here](https://windows.microsoft.com/en-us/skydrive/loyalty) for Microsoft site for me details.  Sign in now to claim it before you lose it.   Login to your account and click the link to keep your current 25GB storage.
 
 The pricing seems quite reasonable:
 
-[![skydrive](http://ramblinggeek.co.uk/wp-content/uploads/2012/04/skydrive_thumb.png "skydrive")](http://ramblinggeek.co.uk/wp-content/uploads/2012/04/skydrive.png)
+[![skydrive](https://ramblinggeek.co.uk/wp-content/uploads/2012/04/skydrive_thumb.png "skydrive")](https://ramblinggeek.co.uk/wp-content/uploads/2012/04/skydrive.png)
 
 I believe it users part (some are saying the it’s not complete) mesh features for syncing.  I’ll update this post once I’ve know more.
 

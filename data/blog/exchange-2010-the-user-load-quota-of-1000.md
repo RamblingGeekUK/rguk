@@ -11,7 +11,7 @@ So you open EMC 2010 and you are presented with the following error : -
 
 and from power shell you receive something like the following :-
 
-_"The attempt to connect to [http://servername.domain.local/powershell](http://email.domain.local/powershell) using Kerberos authetication failed: Connecting to remote server failed with the following error message: The WS-Management service cannot process the request. The system load quota of 1000 requests per 2 seconds has been exceeded. Send future request at a slower rate or raise the system quota. The next request from this user will not be approve for at least 1522693632 milliseconds. For more information see the about Remote\_Troubleshooting"_
+_"The attempt to connect to [https://servername.domain.local/powershell](https://email.domain.local/powershell) using Kerberos authetication failed: Connecting to remote server failed with the following error message: The WS-Management service cannot process the request. The system load quota of 1000 requests per 2 seconds has been exceeded. Send future request at a slower rate or raise the system quota. The next request from this user will not be approve for at least 1522693632 milliseconds. For more information see the about Remote\_Troubleshooting"_
 
 The resolution to this is simple, you can either restart the server or run iisreset from an evaluated command prompt.
 

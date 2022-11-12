@@ -7,19 +7,19 @@ categories:
 
 To find out the current time source:
 
-plaintext
+```plaintext
 w32tm /query /source
 ```
 
 To resync a server or to force a server to update it's time with the source:
 
-plaintext
+```plaintext
 w32tm /resync
 ```
 
 Setting external time server:
 
-plaintext
+```plaintext
 w32tm /config /manualpeerlist:pool.ntp.org /syncfromflags:MANUAL
 Stop-Service w32time
 Start-Service w32time

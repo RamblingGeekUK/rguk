@@ -4,13 +4,14 @@ publishDate: "2017-02-17"
 categories: 
   - "general"
 tags: 
-  - "c"
+  - "c#"
   - "mvc"
   - "programming"
   - "ssrs"
+excerpt: "I spent some time with this one. As you can't use the Report Viewer as you can with Web Forms, I have been using the URL Access to grab the form pass parameters and download."
 ---
 
-I spent some time with this one..  As you can't use the Report Viewer as you can with Web Forms, I have been using the URL Access to grab the form pass parameters and download.
+I spent some time with this one. As you can't use the Report Viewer as you can with Web Forms, I have been using the URL Access to grab the form pass parameters and download.
 
 The problem with this approach is that there is no way to change the name of the file that is downloaded.
 
@@ -31,4 +32,4 @@ public ActionResult GetPDFReport(int? id)
 }
 ```
 
-Have fun! :-) 
+Have fun! 🙂

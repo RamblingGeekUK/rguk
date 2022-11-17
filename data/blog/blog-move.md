@@ -3,6 +3,8 @@ title: "Blog Move"
 publishDate: "2010-02-07"
 categories: 
   - "general"
+tags: 
+  - "archived"
 ---
 
 This blog started life being hosted on WordPress servers for ease. I’m now getting to a stage where I want to do more stuff and their restrictions are stopping me.

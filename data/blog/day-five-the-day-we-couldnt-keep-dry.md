@@ -3,6 +3,8 @@ title: "Day Five: The day we couldn't keep dry!"
 publishDate: "2008-02-23"
 categories: 
   - "general"
+tags: 
+  - "archived"
 ---
 
 Today we went to the Universal Island of Adventures.  We got there around 10:30ish. We should have met Tracy, Alan, Pat and Jimmy at 9:30, but it took ages for us to get through the tick booths.

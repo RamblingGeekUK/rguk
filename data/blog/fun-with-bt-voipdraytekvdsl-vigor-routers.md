@@ -10,6 +10,7 @@ tags:
   - "vdsl"
   - "vigor"
   - "voip"
+  - "archived"
 ---
 
 Recently I was involved in some work for a company that had a BT2Wire router. We wanted/needed to swap this out for a Draytek Vigor, this normally wouldn't be an issue. The issue this time around was that the BT2Wire had a couple of BT VoIP lines enabled and although only one was in use and the other was used for the fax, which isn't ironic at all.

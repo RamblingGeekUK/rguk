@@ -3,6 +3,8 @@ title: "Day Two"
 publishDate: "2008-02-09"
 categories: 
   - "general"
+tags: 
+  - "archived"
 ---
 
 **Day Two**

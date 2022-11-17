@@ -3,6 +3,8 @@ title: "How do you turn on RF2 9v on a sky+hd box"
 publishDate: "2011-06-29"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 On a Sky+HD box, the hidden menu is Services 0 0 1 & press Select. Then go to RF Outlets and turn the power on, remembering to save the settings.

@@ -3,6 +3,8 @@ title: "Google+ Not for business"
 publishDate: "2011-07-25"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 [![google ](https://ramblinggeek.co.uk/wp-content/uploads/2011/07/google_thumb.jpg "google ")](https://ramblinggeek.co.uk/wp-content/uploads/2011/07/google.jpg)

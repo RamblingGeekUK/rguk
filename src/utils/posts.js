@@ -38,7 +38,8 @@ const load = async function () {
 
 	const results = (await Promise.all(normalizedPosts))
 		.sort((a, b) => new Date(b.publishDate).valueOf() - new Date(a.publishDate).valueOf())
-		.filter((post) => !post.draft);
+		.filter((post) => !post.draft && post.tags != 'archived')
+		
 	return results;
 };
 

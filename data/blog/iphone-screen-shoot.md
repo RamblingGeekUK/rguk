@@ -3,6 +3,8 @@ title: "iPhone Screen shoot"
 publishDate: "2009-11-04"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 Have you every seen an screen shot from an iPhone and thought how is that done?

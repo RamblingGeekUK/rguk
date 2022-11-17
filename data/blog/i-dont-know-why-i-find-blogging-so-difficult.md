@@ -3,6 +3,8 @@ title: "I don't know why I find blogging so difficult"
 publishDate: "2007-06-01"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 I don't blog as much as I should. I've just installed the latest Windows Live Writer Beta, which is why I'm blogging now.

@@ -3,6 +3,8 @@ title: "D9: Steven Sinofsky (Full Video)"
 publishDate: "2011-06-23"
 categories: 
   - "general"
+tags: 
+  - "archived"
 ---
 
 I've been reading the following posts from Paul Thurrott.

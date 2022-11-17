@@ -3,6 +3,8 @@ title: "Delivery has failed to these recipients or distribution lists"
 publishDate: "2010-11-05"
 categories: 
   - "general"
+tags: 
+  - "archived"
 ---
 
 When customers were trying to e-mail us they were receiving the above error back.

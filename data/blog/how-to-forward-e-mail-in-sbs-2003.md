@@ -3,6 +3,8 @@ title: "How To Forward e-mail in SBS 2003"
 publishDate: "2010-07-16"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 This video demos how to forward all e-mails from one user account to another users account and if required how to have them delivery to both accounts also.

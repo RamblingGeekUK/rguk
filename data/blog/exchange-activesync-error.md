@@ -3,6 +3,8 @@ title: "Exchange ActiveSync Error"
 publishDate: "2009-11-23"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 A customers Windows Mobile Phone stopped syncing e-mails, etc, looking at the server we could see this error within the logs.

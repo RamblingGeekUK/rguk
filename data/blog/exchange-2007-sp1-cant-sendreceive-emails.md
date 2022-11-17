@@ -3,6 +3,8 @@ title: "Exchange 2007 SP1 – Can’t send/receive emails"
 publishDate: "2010-09-14"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 So your Exchange Server has been running fine for months and all of a sudden it doesn’t want to send or receive external emails.

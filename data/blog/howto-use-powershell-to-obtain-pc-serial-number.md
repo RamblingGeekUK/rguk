@@ -6,6 +6,7 @@ categories:
 tags: 
   - "powershell"
   - "windows"
+  - "archived"
 ---
 
 Open powershell and enter the following :

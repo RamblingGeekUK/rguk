@@ -3,6 +3,8 @@ title: "iOS Update 8.2 Fixes Exchange Outlook Notes Sync Issue"
 publishDate: "2015-04-15"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 Just after the release of iOS 8, users started commenting about it breaking the syncing of Notes entered with in a Dairy appointment.

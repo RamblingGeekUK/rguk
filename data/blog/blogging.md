@@ -3,6 +3,8 @@ title: "Blogging....."
 publishDate: "2006-04-29"
 categories: 
   - "general"
+tags: 
+  - "archived"
 ---
 
 Hello all, this is not my first stab at blogging as I used a blog around a year ago.

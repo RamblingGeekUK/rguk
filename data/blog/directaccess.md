@@ -3,6 +3,8 @@ title: "DirectAccess"
 publishDate: "2014-05-07"
 categories: 
   - "general"
+tags: 
+  - "archived"
 ---
 
 I've been wanting to play around with Microsoft Direct Access since it was first released with Windows Server 2008. The issue back then was the requirement for multiple public IP Addresses, which was out of reach for my home broadband connectivity at the time.

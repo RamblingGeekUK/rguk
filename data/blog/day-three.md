@@ -3,6 +3,8 @@ title: "Day Three"
 publishDate: "2008-02-10"
 categories: 
   - "general"
+tags: 
+  - "archived"
 ---
 
 We got up this morning and started to get ready to go to Animal Kingdom, whilst getting ready we received a phone call from Tracy to say that Pat was in the hospital, she said it was nothing to worry about but of course, we were worried, Animal Kingdom was postponed while we waited to find out what was happening with Pat.

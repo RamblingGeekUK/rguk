@@ -3,6 +3,8 @@ title: "Blackberry Simulator"
 publishDate: "2009-12-03"
 categories: 
   - "general"
+tags: 
+  - "archived"
 ---
 
 This is for developers however having access to a blackberry device on the desktop can be useful if you are supporting a blackberry device and don’t have one.

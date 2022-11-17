@@ -3,6 +3,8 @@ title: "Importing NK2 files in Outlook 2010"
 publishDate: "2012-01-17"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 In previous versions of Outlook, it was as simply as copying the NK2 (Nickname) across and renaming it to the profile name.

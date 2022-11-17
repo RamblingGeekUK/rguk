@@ -3,6 +3,8 @@ title: "A Better Day Today"
 publishDate: "2008-02-05"
 categories: 
   - "general"
+tags: 
+  - "archived"
 ---
 
 Yesterday I spoke about losing data at a customer's site. Well, it was indeed lost. Which wasn't great as you can imagine. Thankfully the customer was very understanding all things considered.

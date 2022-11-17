@@ -3,6 +3,8 @@ title: "iPhone 4"
 publishDate: "2010-07-16"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 I haven’t purchased an iPhone 4 for two reasons.

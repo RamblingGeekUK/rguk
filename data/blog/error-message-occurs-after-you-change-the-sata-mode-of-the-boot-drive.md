@@ -6,6 +6,7 @@ categories:
 tags: 
   - "hardware"
   - "windows"
+  - "archived"
 ---
 
 So here's the situation, PC dies you remove the hard drive and put it in a new PC. It boots and you receive a BSOD error 0x0000007B.  If you do the following : -

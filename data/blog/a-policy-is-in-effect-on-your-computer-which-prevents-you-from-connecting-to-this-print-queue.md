@@ -3,6 +3,8 @@ title: "A policy is in effect on your computer which prevents you from connectin
 publishDate: "2016-10-19"
 categories: 
   - "general"
+tags: 
+  - "archived"
 ---
 
 I received this error after browsing to \\\\server\\printershare, right-clicking and selecting connect, it proceeded as normal then the error was thrown, removing KB3170455 will resolve the issue.

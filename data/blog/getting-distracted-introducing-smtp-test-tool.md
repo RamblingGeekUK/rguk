@@ -3,6 +3,8 @@ title: "Getting Distracted...Introducing SMTP Test Tool"
 publishDate: "2014-04-09"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 Like I don't have enough projects going on, yet to be completed but coming along nicely.

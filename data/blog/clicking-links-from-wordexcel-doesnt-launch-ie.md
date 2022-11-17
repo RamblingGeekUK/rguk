@@ -3,6 +3,8 @@ title: "Clicking Links from Word/Excel doesn't launch IE"
 publishDate: "2014-07-23"
 categories: 
   - "general"
+tags: 
+  - "archived"
 ---
 
 Had an irritating issue, when clicking https links from within Word and else where you receive something like:

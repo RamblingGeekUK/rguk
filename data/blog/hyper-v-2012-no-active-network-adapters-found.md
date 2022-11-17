@@ -3,6 +3,8 @@ title: "Hyper-V 2012 : \"no active network adapters found\""
 publishDate: "2014-07-24"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 So your playing... sorry... learning/working with Virtual Machine Manager (VMM) and installing/configuring virtual switches.   Your configuration doesn't take and in the Job's windows from VMM, you see something like the following: -

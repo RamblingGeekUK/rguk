@@ -3,6 +3,8 @@ title: "Extract Users from Distribution Group"
 publishDate: "2012-07-05"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 I needed to extract a fair amount of users from a Distribution Group on a Windows SBS 2003 Server.  As the Server didn’t have PowerShell installed, I used this instead.

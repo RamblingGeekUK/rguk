@@ -3,6 +3,8 @@ title: "Autumn Clean/Update"
 publishDate: "2014-10-25"
 categories: 
   - "general"
+tags: 
+  - "archived"
 ---
 
 I spent some time this morning cleaning up the broken areas of this site.

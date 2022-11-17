@@ -3,6 +3,8 @@ title: "DCOM got error 'Logon failure: unknown user name or bad password.'"
 publishDate: "2010-05-06"
 categories: 
   - "general"
+tags: 
+  - "archived"
 ---
 
 I was getting a lot of these errors in the system event log on one of the servers we maintain.

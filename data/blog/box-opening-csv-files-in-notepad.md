@@ -3,6 +3,8 @@ title: "Box Opening CSV files in Notepad"
 publishDate: "2018-10-05"
 categories: 
   - "general"
+tags: 
+  - "archived"
 ---
 
 When using BOX via the Web Interface and the user clicks edit, the CSV files open in notepad.  This happens even when Excel opens CSV file locally.

@@ -3,6 +3,8 @@ title: "Exchange 2010 :  The user load quota of 1000 ...."
 publishDate: "2013-05-22"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 So you open EMC 2010 and you are presented with the following error : -

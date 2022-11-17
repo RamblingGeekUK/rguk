@@ -3,6 +3,8 @@ title: "DFS : The Case Of The Missing Files"
 publishDate: "2017-07-23"
 categories: 
   - "general"
+tags: 
+  - "archived"
 ---
 
 I've not used DFS all that much myself.   I've configured it a couple of times in a Lab Environment and it just worked, of course, we all know things are different in the real world.

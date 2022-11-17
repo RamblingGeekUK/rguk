@@ -3,6 +3,8 @@ title: "Exchange SP2 is released today"
 publishDate: "2009-08-26"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 Exchange SP2 has been release today and can be downloaded form [here](https://www.microsoft.com/downloads/details.aspx?displaylang=en&FamilyID=4c4bd2a3-5e50-42b0-8bbb-2cc9afe3216a).

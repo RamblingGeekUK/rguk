@@ -3,6 +3,8 @@ title: "iPad"
 publishDate: "2010-04-11"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 Before reading on, please see this post first [https://ramberlinggeek.co.uk/2010/01/ipad/](https://ramberlinggeek.co.uk/2010/01/ipad/)

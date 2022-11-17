@@ -3,6 +3,8 @@ title: "iPad App Store"
 publishDate: "2010-07-09"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 Images Lost. Sorry ☹️

@@ -31,7 +31,7 @@ Visit the [www.bt.com/bbv](https://www.bt.com/bbv), enter your account details a
 
 It will look like this:
 
-```plaintext
+```
 [https://www.api.home/voipsetup.api?SIPTr ... otocol=UDP](https://www.api.home/voipsetup.api?SIPTransportProtocol=UDP) &SIPTransportPort=5060 &SIPRegistrarAddress=sip.bbvservice.nat.bt.com &SIPRegistrarPort=5060 &SIPOutboundProxyAddress=www.bbvservice-560049x.bt.com &SIPOutboundProxyPort=5060 &SIPProxyAddress=sip.bbvservice.nat.bt.com &SIPProxyPort=5060 &SIPPhoneNumber1=05600\*\*\*\*\*\* &SIPCallerName1= &SIPUsername1=05600\*\*\*\*\*\* &SIPPassword1=ABCDEFGH12IJK3L &SIPPhoneNumber2= &SIPCallerName2= &SIPUsername2= &SIPPassword2= &SIPHashB=d171f7f6123fbce2e80446dc1b06a8fa &SIPHashC=3f8b49b05078a0c0a5cd3d5c82c33f7a &SIPHashD=777a74c8a8bb129636e6c3cbfae8a811 &SIPHash=4c8d061c965d073308634b261532a180
 ```
 

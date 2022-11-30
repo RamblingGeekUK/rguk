@@ -13,7 +13,7 @@ HP Keyboard Filter Driver for Windows 10 1803 and 1809 (x64)
   
 The solution was found at [Read](https://www.reddit.com/r/Windows10/comments/9n0bkw/one_of_these_quality_updates_can_cause_an/) it. Which is to rename the following file :  
 
-```text
+```
 ren C:\\Windows\\System32\\drivers\\HpqKbFiltr.sys HpqKbFiltr.sys\_old
 ```
   

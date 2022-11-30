@@ -8,6 +8,17 @@ tags:
   - "pico"
 ---
 
+### Why
+
+You may be wondering why you would want to do this, I looked into how to do this when the question was posted on a Discord community server.  They had several Pico's that they wanted to use with various demo files on and didn't like the prospect of doing them one by one. 
+
+### How
+
+I did this from WSL on Windows, another Pi or Linux Distro should work fine also, although I haven't tested it. 
+
+#### Prerequisites
+
+The first thing to do is to get all the bits installed.
 
 ```bash
 apt-get install git
@@ -17,11 +28,15 @@ apt-get install cmake
 apt-get install python3
 ```
 
+Now clone micropython and update it with the mbedtl library
+
 ```bash
 cd /var/host
 git clone https://github.com/micropython/micropython.git
 git submodule update --init lib/mbedtl
 ```
+
+Now enter the micropyton folder and make 
 
 ```bash
 cd micropython

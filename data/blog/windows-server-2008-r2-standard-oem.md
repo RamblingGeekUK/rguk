@@ -3,6 +3,8 @@ title: "Windows Server 2008 r2 Standard (OEM)"
 publishDate: "2011-08-13"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 A client recently required Windows Server 2008 server, they already[![imagesCAHQZN50](https://ramblinggeek.co.uk/wp-content/uploads/2011/08/imagesCAHQZN50_thumb.jpg "imagesCAHQZN50")](https://ramblinggeek.co.uk/wp-content/uploads/2011/08/imagesCAHQZN50.jpg) had Windows Sever 2008 R1, with Hyper-v installed and required an additional server.

@@ -3,6 +3,8 @@ title: "Microsoft’s Future"
 publishDate: "2011-05-07"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 The fact that Apple has overtaken Microsoft to be a more profitable, I feel is a good thing.

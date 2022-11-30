@@ -3,6 +3,8 @@ title: "Windows Server 2008 R2 Terminal Server/Remote Desktop Server not display
 publishDate: "2011-03-23"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 A clients Terminal Server/Remote Desktop Server failed.   We installed Windows Server 2008 R2 and configured it as a Remote Desktop Server.  But it didn’t appear in the RWW as a 2003 Terminal server would have normally.  As the image below demonstrates.

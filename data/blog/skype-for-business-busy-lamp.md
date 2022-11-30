@@ -3,6 +3,8 @@ title: "Skype (for Business) Busy Lamp"
 publishDate: "2018-12-30"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 In our office, we use headsets rather than the traditional phone handset. This is for the very practical reason of having both hands free whilst on a call.  However, the downside is other people in the office can't always tell if you're on a call or not.  This problem has already be solved by [BusyLight](https://www.busylight.com/en/).  Rather than buying one of these, I decided to see if I could build one, that's more fun, right?

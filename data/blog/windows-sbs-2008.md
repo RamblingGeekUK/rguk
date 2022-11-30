@@ -3,6 +3,8 @@ title: "Windows SBS 2008"
 publishDate: "2008-06-30"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 I’ would like to be writing about Windows SBS 2008… but I’m having a hard time getting things up and running.

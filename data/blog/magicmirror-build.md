@@ -5,6 +5,8 @@ image: "~/assets/images/mmp.jpg"
 categories: 
   - "general"
 excerpt: "After seeing various people building MagicMirrors, I wanted to build one for myself.  I did this in June 2017. Why post about it now? Well, I fully intended to post about it back then but then, you know, I got busy."
+tags:
+  - "archived"
 ---
 
 After seeing various people building MagicMirrors, I wanted to build one for myself.  I did this in June 2017. Why post about it now? Well, I fully intended to post about it back then but then, you know, life.  On a few occasions now I have found myself talking to (boring) people about this project and I ended up looking for pictures to show them, which takes too long, so I figured I should get it all in one place.

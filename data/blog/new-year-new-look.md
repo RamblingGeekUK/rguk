@@ -3,6 +3,8 @@ title: "New Year, New Look"
 publishDate: "2013-01-03"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 I thought I would start the New Year with a fresh look to the site as the previous site was looking a bit old, it's the first real refresh in two years.   I've gone for a Metro/Windows 8/Modern UI feel.  I hope you like it, please feel free to leave any feedback that you may have.

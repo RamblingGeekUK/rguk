@@ -3,6 +3,8 @@ title: "Remote Desktop : Your Computer can't connect to the remote computer beca
 publishDate: "2018-03-20"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 This was/is one of the strangest issues that I have ever come across.  You try to connect to remote server and it does connect and the following error message is returned. 

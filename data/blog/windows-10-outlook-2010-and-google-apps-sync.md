@@ -3,6 +3,8 @@ title: "Windows 10, Outlook 2010 and Google Apps Sync"
 publishDate: "2016-07-14"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 So I configured this for a client and they reported not being able send emails, a quick Google throws this up from Google:-

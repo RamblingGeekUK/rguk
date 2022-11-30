@@ -3,6 +3,8 @@ title: "Second Monitor not waking from Standby"
 publishDate: "2013-04-02"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 Late last year I purchased a new PC, in fact a new motherboard, processor, memory.   Since I built I've had an issue, the 2nd monitor on my dual screen configuration wouldn't wake up.  I ensured I had the latest drivers at the time, which didn't resolved the issue.   I had another luck the other day and noticed that more recent drivers had been released in December! :-)

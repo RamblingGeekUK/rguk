@@ -3,6 +3,8 @@ title: "Windows Phone Update Error 0x8188308"
 publishDate: "2014-08-22"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 The latest update from Microsoft for Windows Phone, the one that added app folders, would not install on my device Lumia 920.  According to Microsoft resetting you phone wouldn't work, so after waiting for Microsoft to fix the issue and getting fed up of the update prompts, I took the plunge and reset my phone.   I backed up first of course. :-)

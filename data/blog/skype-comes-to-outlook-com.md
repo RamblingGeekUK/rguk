@@ -3,6 +3,8 @@ title: "Skype comes to Outlook.com"
 publishDate: "2013-04-30"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 Skype is coming to Outlook.com in the UK today.   More information can be found over on the outlook.com [blog](https://blogs.office.com/b/microsoft-outlook/archive/2013/04/29/skype-comes-to-outlook-com.aspx). I really like outlook.com since switching from gmail a couple of weeks ago. I think this is great news.

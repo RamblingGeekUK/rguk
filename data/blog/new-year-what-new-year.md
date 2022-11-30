@@ -3,6 +3,8 @@ title: "New Year, What New Year?"
 publishDate: "2011-02-18"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 This year started so fast I’m still catching up with myself.  ![Smile](https://ramberlinggeek.co.uk/wp-content/uploads/2011/02/wlEmoticon-smile.png)

@@ -3,6 +3,8 @@ title: "Uploading a File"
 publishDate: "2012-07-02"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 So I wanted to upload a file or files from a Windows Application that I was developing, so a quick lookup on MSDN provided the following ([link](https://msdn.microsoft.com/en-us/library/w3kksch7(v=vs.90).aspx)): -

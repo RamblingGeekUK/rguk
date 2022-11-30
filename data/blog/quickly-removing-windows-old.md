@@ -3,6 +3,8 @@ title: "Quickly Removing Windows.old"
 publishDate: "2013-09-04"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 The other day I was working on a PC and it was low on disk space, on the root of the drive was a Windows.old folder. After backing up the users folder, I started removing the folder due to the Security applied to this folder it can take some time to amend and delete each folder.

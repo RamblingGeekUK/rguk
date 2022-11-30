@@ -3,6 +3,8 @@ title: "Windows Home Server Add-in"
 publishDate: "2009-09-01"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 Here in the UK we had a bank holiday yesterday which of course meant we had 3 days off.  So I spent some time with the wife over the last few days and decided that I would embark on new project.

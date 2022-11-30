@@ -3,6 +3,8 @@ title: "Sad Day."
 publishDate: "2011-10-05"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 Steve Jobs has died.   All our thoughts go out to his family.

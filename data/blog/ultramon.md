@@ -3,6 +3,8 @@ title: "UltraMon"
 publishDate: "2009-09-16"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 I’ve notice this morning that UltraMon has been updated to fit in with Windows 7.  On the second toolbar, who don’t get previews of your windows thou. :-(

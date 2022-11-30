@@ -3,6 +3,8 @@ title: "List of Recent Word Documents not showing up in Task Bar or Start Menu."
 publishDate: "2013-03-07"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 I was asked if this could be resolved, here's what I discovered.

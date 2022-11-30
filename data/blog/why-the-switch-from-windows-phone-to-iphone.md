@@ -3,6 +3,8 @@ title: "Why the switch from Windows Phone to iPhone?"
 publishDate: "2012-04-26"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 I said in the blog post [The Great Windows Phone to iPhone switch (back)](https://ramblinggeek.co.uk/2012/02/the-great-windows-phone-to-iphone-switch-back/) that I would post why I switched, this is that post, it’s taken some time for me to write, sorry for the wait.

@@ -3,6 +3,8 @@ title: "My wish maybe coming true"
 publishDate: "2008-04-21"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 [https://www.pcpro.co.uk/news/190224/3g-iphone-no-longer-exclusive.html](https://www.pcpro.co.uk/news/190224/3g-iphone-no-longer-exclusive.html "https://www.pcpro.co.uk/news/190224/3g-iphone-no-longer-exclusive.html")

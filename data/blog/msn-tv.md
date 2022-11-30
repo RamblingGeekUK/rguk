@@ -3,6 +3,8 @@ title: "MSN TV"
 publishDate: "2009-08-03"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 Microsoft has launched MSN TV in the UK, which is great even ad supported the more methods we have watching content legally the better.

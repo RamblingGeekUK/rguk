@@ -3,6 +3,8 @@ title: "Various"
 publishDate: "2010-07-01"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 I haven’t blogged for a few weeks, so I thought I would today.  You may noticed the addition of Google Ads on the left hand side.  Sorry guys, I have to fund this site some how.  ![Smile](https://ramberlinggeek.co.uk/wp-content/uploads/2010/07/wlEmoticonsmile.png)

@@ -5,6 +5,7 @@ categories:
   - "general"
 tags: 
   - "youtube"
+  - "archived"
 ---
 
 A little look at running the Blinky Sample App on a Raspberry Pi.

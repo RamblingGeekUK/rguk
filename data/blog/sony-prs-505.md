@@ -3,6 +3,8 @@ title: "Sony PRS-505"
 publishDate: "2008-09-12"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 I purchased one of these and received early this week.  I'm very happy with it.

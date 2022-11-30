@@ -3,6 +3,8 @@ title: "Windows 7 Connect a printer - The credentials supplied conflict with an 
 publishDate: "2013-06-18"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 I was asked to install a printer for a user.  No problem, so I browsed to the server and right clicked the printer and selected connect, then I was presented with a dialogue with the following message, "The credentials supplied conflict with an existing set".

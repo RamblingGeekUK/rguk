@@ -4,6 +4,8 @@ publishDate: "2014-03-20"
 categories: 
   - "iconfig"
   - "project"
+tags:
+  - "archived"
 ---
 
 I have been working on this over the last few days.  I was shocked to discover how close I was to a fully working application.  I've resolved a bug which was preventing the configuration being loaded by iOS.  I've tested on iOS 7 and to my surprise and relief all still works.  I'm currently working with my host to ensure all works smoothly, I've run into a few security permissions when publishing the application.

@@ -3,6 +3,8 @@ title: "MS SQL resetting the auto increment"
 publishDate: "2010-05-05"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 DBCC CHECKIDENT('test', RESEED, 10001) ;

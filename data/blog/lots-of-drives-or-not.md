@@ -3,6 +3,8 @@ title: "Lots of Drives….  or Not.  :-)"
 publishDate: "2011-03-02"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 Does this bug you?

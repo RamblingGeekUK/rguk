@@ -3,6 +3,8 @@ title: "Virtual Box: VM won't start OS X Mavericks"
 publishDate: "2014-03-12"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 Installed OS X Mavericks and VM Box now doesn't work. I've been getting the following error, failed to load VMMR0.r0 (VERR\_SUPLIB\_OWNER\_NOT\_ROOT).

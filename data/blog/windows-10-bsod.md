@@ -3,6 +3,8 @@ title: "Windows 10: BSOD"
 publishDate: "2018-10-12"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 A number of PC were BSOD of death latley and with the issues surrounding the latest Windows Build, 1809, we figured that it was to do with that.  It turns out that it's a HP Keyboard driver causing the issue, it appears as :  

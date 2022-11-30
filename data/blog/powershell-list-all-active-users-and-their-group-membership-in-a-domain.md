@@ -5,6 +5,8 @@ categories:
   - "general"
 excerpt: "Say's it all in the title. I needed a quick way to do this for a client. I figured I would publish it here for future reference and anyone else you may find it useful."
 image: "~/assets/images/PowerShell_Core_6.0_icon.png"
+tags:
+  - "archived"
 ---
 
 So you need to know which users are members of which group... this little PowerShell Script will do the job.

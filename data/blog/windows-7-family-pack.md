@@ -3,6 +3,8 @@ title: "Windows 7 Family Pack"
 publishDate: "2009-08-24"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 Just reading on the Windows Team Blog, that we are indeed going to be able to purchase the Windows 7 Family Pack here in the UK.

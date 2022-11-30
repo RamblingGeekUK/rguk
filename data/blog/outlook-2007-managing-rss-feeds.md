@@ -3,6 +3,8 @@ title: "Outlook 2007 Managing RSS Feeds"
 publishDate: "2009-08-24"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 Had this error starting coming up in outlook the last few days:

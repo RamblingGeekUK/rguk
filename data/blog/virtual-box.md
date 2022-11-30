@@ -3,6 +3,8 @@ title: "Virtual Box"
 publishDate: "2009-09-02"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 So I came across Sun’s Virtual Box software some time ago and tried booting a 64bit OS on it which at the time seemed a little buggy.

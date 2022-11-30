@@ -3,6 +3,8 @@ title: "Mac OS X (10.6) Installing and running inside Virtual Box"
 publishDate: "2010-06-06"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 What’s required:-

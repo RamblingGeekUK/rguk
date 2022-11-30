@@ -3,6 +3,8 @@ title: "UEFI Bypassing OEM Key Durining Windows 8 Pro Installation"
 publishDate: "2013-07-23"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 We ([Kanzen Solutions](https://kanzensolutions.co.uk/) and I) ran into an issue with a new laptop the other day.   When trying to install Windows 8  Pro (OEM) onto a laptop which used OEM Activation, the Windows 8 Pro installer pulled the key from the BIOS and once installed was activated as Windows 8 and not Windows 8 Pro.

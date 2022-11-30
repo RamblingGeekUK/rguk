@@ -3,6 +3,8 @@ title: "Windows Universal Installation"
 publishDate: "2012-06-13"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 Since Windows Vista, Windows Installation disk’s have come with all Editions on the disk.  These means if you want to create a single USB bootable drive which will allow you install:-

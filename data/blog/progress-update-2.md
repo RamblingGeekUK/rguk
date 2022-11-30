@@ -4,6 +4,8 @@ publishDate: "2014-06-23"
 categories: 
   - "iconfig"
   - "project"
+tags:
+  - "archived"
 ---
 
 I missed my self imposed deadline.  :-(

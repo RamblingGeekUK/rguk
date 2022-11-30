@@ -3,6 +3,8 @@ title: "Orange HTC TyTN II Update"
 publishDate: "2008-08-27"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 I've been checking [this](https://www.business.orange.co.uk/servlet/Satellite?c=OUKDevice&cid=1044136430608&extarg1=Phone&pagename=Business&t=SMEDeviceDownloads) page when I remember to see if orange had release the Windows Mobile 6.1 update and I noticed today that they had.... I've installed it on my TyTN II and all seems working ok thus far.

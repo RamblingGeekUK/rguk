@@ -3,6 +3,8 @@ title: "Using PowerShell to obtain a list of email accounts for a specific domai
 publishDate: "2012-07-16"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 Fairly simply command worked for me: -

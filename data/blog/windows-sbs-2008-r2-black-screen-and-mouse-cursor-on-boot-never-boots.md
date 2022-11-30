@@ -3,6 +3,8 @@ title: "Windows SBS 2011 R2:  Black screen and Mouse Cursor on boot, never boots
 publishDate: "2013-06-05"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 After spending a full day on this, we [(Your IT Pro](https://www.youritpro.co.uk/) and I) finally got it to boot by restoring the registry from a backup which windows keeps.

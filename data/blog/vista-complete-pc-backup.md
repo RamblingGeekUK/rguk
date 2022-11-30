@@ -3,6 +3,8 @@ title: "Vista Complete PC Backup"
 publishDate: "2008-06-26"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 I purchase a [WD MyBook](https://www.wdc.com/en/products/products.asp?driveid=353) USB drive…. which I have to say I’m liking so far…. Cheapist £50 for 300GB…

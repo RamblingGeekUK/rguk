@@ -3,6 +3,8 @@ title: "SBS CAL Resets"
 publishDate: "2008-07-11"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 This has happened to me on a number of SBS boxes whit low hard drive space, generally on drive C:

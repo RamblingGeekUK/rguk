@@ -3,6 +3,8 @@ title: "Replica is inconsistent in DPM 2012 R2"
 publishDate: "2016-12-07"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 If you keep receiving the "replica is inconsistent" error message, check the following:

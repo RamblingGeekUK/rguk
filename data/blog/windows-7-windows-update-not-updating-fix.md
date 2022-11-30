@@ -3,6 +3,8 @@ title: "Windows 7 : Windows Update Not Updating. FIX!"
 publishDate: "2016-09-29"
 categories: 
   - "general"
+tags:
+  - "archived"  
 ---
 
 **NB:** This is not my work, I wanted to post here for reference as it seems to work, original post : [https://answers.microsoft.com/en-us/windows/forum/windows\_7-update/windows-7-update-solution/f39a65fa-9d10-42e7-9bc0-7f5096b36d0c?auth=1](https://answers.microsoft.com/en-us/windows/forum/windows_7-update/windows-7-update-solution/f39a65fa-9d10-42e7-9bc0-7f5096b36d0c?auth=1)

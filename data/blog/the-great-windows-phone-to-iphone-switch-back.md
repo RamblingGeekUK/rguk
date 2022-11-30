@@ -3,6 +3,8 @@ title: "The Great Windows Phone to iPhone switch (back)"
 publishDate: "2012-02-28"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 **The Want**

@@ -3,6 +3,8 @@ title: "Printing Cause's Error : 0x0000007a"
 publishDate: "2015-06-16"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 When a user prints an error is thrown with the error code : 0x0000007a

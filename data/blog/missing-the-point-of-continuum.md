@@ -8,6 +8,7 @@ tags:
   - "continuum"
   - "microsoft"
   - "opinon"
+  - "archived"
 coverImage: "Microsoft-Display-Dock-continuum.jpg"
 ---
 

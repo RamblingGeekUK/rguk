@@ -5,6 +5,7 @@ categories:
   - "general"
 tags: 
   - "youtube"
+  - "archived"
 ---
 
 https://www.youtube.com/watch?v=SnhCPy6HVlU&t=37s

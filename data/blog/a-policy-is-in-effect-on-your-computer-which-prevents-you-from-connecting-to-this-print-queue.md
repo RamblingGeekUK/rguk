@@ -11,13 +11,13 @@ I received this error after browsing to \\\\server\\printershare, right-clicking
 
 You can check if it's installed by opening PowerShell and running:-
 
-```plaintext
+```
 get-hotfix KB3170455
 ```
 
 this will return a list if it's installed. You can remove it from the command line (doesn't appear to be a PowerShell cmdlet at this time) by running: -
 
-```plaintext
+```
 wusa.exe /uninstall /kb:3114409 /norestart /quiet
 ```
 

@@ -3,6 +3,8 @@ title: "Windows 8 – Microsoft Video 1"
 publishDate: "2011-06-02"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 Microsoft has showed the firs look at Windows 8.

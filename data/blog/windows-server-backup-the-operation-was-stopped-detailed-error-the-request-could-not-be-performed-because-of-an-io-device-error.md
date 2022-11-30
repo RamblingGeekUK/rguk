@@ -3,6 +3,8 @@ title: "Windows Server Backup - the operation was stopped: Detailed error: The r
 publishDate: "2014-01-28"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 Basically there are two things that could be causing your backup to fail if it is a removable HD.  I am going to save you the trouble of reading [this](https://social.technet.microsoft.com/Forums/en-US/windowsbackup/thread/5d9e2f23-ee70-4d41-8bfc-c9c4068ee4e2) whole thread and catch you up.

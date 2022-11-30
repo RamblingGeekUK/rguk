@@ -3,6 +3,8 @@ title: "Windows Working with Time"
 publishDate: "2015-04-23"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 To find out the current time source:

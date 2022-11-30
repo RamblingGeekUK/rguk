@@ -5,6 +5,7 @@ categories:
   - "general"
 tags: 
   - "youtube"
+  - "archived"
 ---
 
 So a little while back Microsoft announced that they would be providing support for SSH, they have reached the first milestone and we have a working version.

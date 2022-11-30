@@ -3,6 +3,8 @@ title: "Microsoft Security Essentials"
 publishDate: "2009-09-21"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 Just downloaded the latest beta to Microsoft Security Essentials…..  Not much has changed.  I’ll post my thoughts once I’ve had enough time to poke about.

@@ -3,6 +3,8 @@ title: "Microsoft Forefront"
 publishDate: "2011-04-07"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 I’ve spent a little time looking at Microsoft Forefront as Microsoft Security Essentials is so good I wanted to know what the “professional” tools brought…

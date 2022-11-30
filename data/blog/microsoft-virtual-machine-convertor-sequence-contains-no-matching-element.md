@@ -3,6 +3,8 @@ title: "Microsoft Virtual Machine Convertor: Sequence contains no matching eleme
 publishDate: "2013-01-07"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 When converting a Virtual Machine from VMware to Hyper-V using the Microsoft Virtual Machine utility, the conversation failed.   Looking at the log I notice this line, " \[1\]  Value of 'ErrorMessage' = 'Sequence contains no matching element' ", to solve this issue, unsure you unmounts any ISO's.

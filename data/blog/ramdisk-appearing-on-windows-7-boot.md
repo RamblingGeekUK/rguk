@@ -3,6 +3,8 @@ title: "RAMDisk appearing on Windows 7 boot"
 publishDate: "2012-06-07"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 You have just installed Windows 7 from a USB Stick and when the system boots it presents two boot options, one being a RAMDisk and you would like to remove it.

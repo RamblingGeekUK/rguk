@@ -3,6 +3,8 @@ title: "My 64 Bit Nightmare continues….."
 publishDate: "2008-07-01"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 VMWare player crashes when you try and run Virtual PC along side…. great.  When I try to open the VHD, it can’t convert.  So now I have to spend time installing Windows XP/Vista clients, which I already have into VMWare…..

@@ -3,6 +3,8 @@ title: "RDP ActiveX Control won't install"
 publishDate: "2012-01-05"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 I have been supporting Windows Small Business Server for many years.   One of SBS's best selling points is the Remote Web Place ferature, this allows users to logon onto a internal hosted website and access there desktop PC or Remote Desktop Server via the webpage.

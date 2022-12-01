@@ -3,6 +3,8 @@ title: "Microsoft fights back.... Finally"
 publishDate: "2013-05-23"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 This is amazing and I for one hope we see more of it.  You can pick holes in it such as, power point isn't available on the Mac and Microsoft Surface does cost $700 +, but whenever has that stopped Apple.   More please Microsoft!

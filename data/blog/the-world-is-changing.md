@@ -3,6 +3,8 @@ title: "The World Is Changing..."
 publishDate: "2013-07-09"
 categories: 
   - "articleopinon"
+tags:
+  - "archived"
 ---
 
 ... Maybe that should be the "IT" world is changing. I thought I was embracing this change. What change am I talking about?

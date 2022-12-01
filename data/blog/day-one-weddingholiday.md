@@ -3,6 +3,8 @@ title: "Day One - Wedding/Holiday"
 publishDate: "2008-02-08"
 categories: 
   - "general"
+tags: 
+  - "archived"
 ---
 
 Today is the first day off from work to pack and generally to get ready to leave early hours tomorrow morning.  We're pretty much packed, just the camera, laptop and various other bits 'n' pieces that need putting into hand luggage.   Lisa has just gone out to collect her wedding dress.  We have four suitcases, never knew we needed to take so much stuff!

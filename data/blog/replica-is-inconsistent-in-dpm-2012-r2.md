@@ -3,6 +3,8 @@ title: "Replica is inconsistent in DPM 2012 R2"
 publishDate: "2016-12-07"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 If you keep receiving the "replica is inconsistent" error message, check the following:
@@ -12,7 +14,7 @@ If you keep receiving the "replica is inconsistent" error message, check the fol
 
 If those have been checked, then you may have run into a known issue.  WinRE, the Windows Recovery Environment partition is getting in the way, you can disable it by disabling WinRE on the server you wish to protect by running the following command:
 
-```plaintext
+```
 reagentc /disable
 ```
 
@@ -20,7 +22,7 @@ Now check replication again and it should now return OK.
 
 Ensure you reenable WinRE with the following command:
 
-```plaintext
+```
 reagentc /enable
 ```
 

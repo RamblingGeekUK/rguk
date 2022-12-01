@@ -3,6 +3,8 @@ title: "Excel 2010: Excel HyperLinks to images open in Internet Explorer Rather 
 publishDate: "2016-10-02"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 This issue can be annoying, it requires the registry to fix, all the normal rules apply when editing the registry.

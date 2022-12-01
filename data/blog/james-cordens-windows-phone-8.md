@@ -3,6 +3,8 @@ title: "James Corden's and Holly Willoughby Windows Phone 8 Ad's"
 publishDate: "2012-11-12"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 This is amazing Microsoft finally getting that the really need to push the phones and I think these are great!

@@ -5,6 +5,7 @@ categories:
   - "general"
 tags: 
   - "youtube"
+  - "archived"
 ---
 
 So when selecting output device, it was bugging me how much I had listed... time to clean it up... here's how. 

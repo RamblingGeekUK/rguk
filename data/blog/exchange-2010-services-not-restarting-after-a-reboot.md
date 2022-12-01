@@ -3,6 +3,8 @@ title: "Exchange 2010 Services not restarting after a reboot."
 publishDate: "2011-10-04"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 [![e2010logo](https://ramblinggeek.co.uk/wp-content/uploads/2011/10/e2010logo_thumb1.jpg "e2010logo")](https://ramblinggeek.co.uk/wp-content/uploads/2011/10/e2010logo1.jpg)

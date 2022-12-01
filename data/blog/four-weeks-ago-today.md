@@ -3,6 +3,8 @@ title: "Four weeks ago today"
 publishDate: "2011-06-15"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 I’ve been a Daddy for a month.   Sure has gone really fast.  Not had much time for geeky software of late between the day job and being at the hospital in the evenings and the weekends.

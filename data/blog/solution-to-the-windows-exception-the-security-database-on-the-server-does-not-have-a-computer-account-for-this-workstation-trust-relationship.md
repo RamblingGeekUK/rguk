@@ -3,6 +3,8 @@ title: "Solution to the Windows Exception: \"The security database on the server
 publishDate: "2011-04-14"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 I came across this issue today and found this solution. 

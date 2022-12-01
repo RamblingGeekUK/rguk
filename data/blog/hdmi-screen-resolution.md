@@ -3,6 +3,8 @@ title: "HDMI Screen Resolution"
 publishDate: "2009-09-07"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 I plugged my Laptop into my TV (42” Sharp 1080i) and I received this: -

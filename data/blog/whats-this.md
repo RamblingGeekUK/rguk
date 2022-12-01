@@ -3,6 +3,8 @@ title: "What’s this?"
 publishDate: "2010-04-29"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 [![clip_image001](https://ramberlinggeek.co.uk/wp-content/uploads/2010/04/clip_image001_thumb.jpg "clip_image001")](https://ramberlinggeek.co.uk/wp-content/uploads/2010/04/clip_image001.jpg)

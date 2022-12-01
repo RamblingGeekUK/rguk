@@ -5,6 +5,7 @@ categories:
   - "general"
 tags:
   - "youtube"
+  - "archived"
 ---
 
 This ad is awesome.  Good job Microsoft.  

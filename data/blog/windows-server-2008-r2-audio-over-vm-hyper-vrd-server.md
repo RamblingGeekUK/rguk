@@ -3,6 +3,8 @@ title: "Windows Server 2008 R2 : Audio Over VM (Hyper-v)/RD Server"
 publishDate: "2016-02-18"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 Windows Server 2008 R2:

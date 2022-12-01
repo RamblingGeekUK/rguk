@@ -3,6 +3,8 @@ title: "SendMail"
 publishDate: "2018-11-11"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 So this past weekend I've been paying some attention to this site and I noticed there have been a few downloads of SendMail an app I  wrote 8 years ago to send mail from the command line.

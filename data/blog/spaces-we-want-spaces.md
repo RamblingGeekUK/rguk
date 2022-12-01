@@ -3,6 +3,8 @@ title: "Spaces – We want Spaces!"
 publishDate: "2010-08-31"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 We recently purchase some D-Link DWL 8500 AP and upon configuring them we discovered that these units don’t allow you to enter a Shared key with spaces.

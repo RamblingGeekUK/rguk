@@ -3,6 +3,8 @@ title: "Windows Server 2012 Missing Disk from Task Manager Performance Tab"
 publishDate: "2013-05-08"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 [![taskmgr](https://ramblinggeek.co.uk/wp-content/uploads/2013/05/taskmgr.jpg)](https://ramblinggeek.co.uk/2013/04/windows-server-2012-missing-disk-from-task-manager-performance-tab/taskmgr/)

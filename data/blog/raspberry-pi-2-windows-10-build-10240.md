@@ -5,6 +5,7 @@ categories:
   - "general"
 tags: 
   - "youtube"
+  - "archived"
 ---
 
 Taking a look at the latest build of Windows 10 for Raspberry Pi and using SSH with Windows for remote access.

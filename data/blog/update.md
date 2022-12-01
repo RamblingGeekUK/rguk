@@ -3,6 +3,8 @@ title: "Update"
 publishDate: "2012-04-21"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 I thought I would post an update as I’ve be fairly quite of late.   I do intend to start blogging more in the near future.

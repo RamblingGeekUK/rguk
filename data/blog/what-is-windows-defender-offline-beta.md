@@ -3,6 +3,8 @@ title: "What is Windows Defender Offline Beta?"
 publishDate: "2012-01-02"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 [![](https://ramblinggeek.co.uk/wp-content/uploads/2012/01/defoffline_03-300x188.jpg "defoffline_03")](https://ramblinggeek.co.uk/wp-content/uploads/2012/01/defoffline_03.jpg)

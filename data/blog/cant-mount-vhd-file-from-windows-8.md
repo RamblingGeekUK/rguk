@@ -3,6 +3,8 @@ title: "Can't Mount VHD file from Windows 8"
 publishDate: "2013-02-14"
 categories: 
   - "general"
+tags: 
+  - "archived"
 ---
 
 Disk2VHD is a tool written by Microsoft's Mark Russinovich of Sysinternals Fame. You can find out more [here](https://technet.microsoft.com/en-gb/sysinternals/ee656415.aspx.)](https://technet.microsoft.com/en-gb/sysinternals/ee656415.aspx.).

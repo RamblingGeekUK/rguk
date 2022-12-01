@@ -4,6 +4,8 @@ publishDate: "2017-03-31"
 categories: 
   - "general"
 coverImage: "VS2017-Installer.png"
+tags:
+  - "archived"
 ---
 
 So I decided to install Visual Studio 2017. I have a 128GB SSD that I purchased a few years back now, and I know I'm due an upgrade. 🙂

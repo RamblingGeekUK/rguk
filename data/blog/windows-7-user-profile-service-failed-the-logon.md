@@ -9,6 +9,7 @@ tags:
   - "login"
   - "logon"
   - "windows"
+  - "archived"
 ---
 
 So after installing a new Windows Server (DC) joined one of the existing PC's to the domain and when it rebooted and I tried to login into it I received the following error, "User Profile Service Failed The Logon"

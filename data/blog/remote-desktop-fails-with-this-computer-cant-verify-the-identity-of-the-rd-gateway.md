@@ -3,6 +3,8 @@ title: "Remote Desktop fails with \"This computer can't verify the identity of t
 publishDate: "2016-10-01"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 When connecting to a recently installed Small Business Server 2011 using the Remote Web Access, the following error:

@@ -3,6 +3,8 @@ title: "The history of the Formula 1 car in 60 seconds"
 publishDate: "2012-07-04"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 I'm a bit of a F1 fan and I think this is to awesome not to share!

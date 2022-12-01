@@ -3,6 +3,8 @@ title: "Installing Windows XP onto a SATA drive"
 publishDate: "2010-03-22"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 So you come to install Windows XP on a new'ish laptop and you find that Windows XP can't install because it doesn't ship with any SATA drivers.  The laptop has no floopy disc and you can't use a USB drive because XP setup or text mode doesn't know what USB pen drives are.

@@ -8,6 +8,7 @@ tags:
   - "mvc"
   - "programming"
   - "ssrs"
+  - "archived"
 excerpt: "I spent some time with this one. As you can't use the Report Viewer as you can with Web Forms, I have been using the URL Access to grab the form pass parameters and download."
 ---
 

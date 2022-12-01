@@ -3,6 +3,8 @@ title: "Video: Taiyo's voice controlled Voice-Heli RC helicopter: \"attack!\" - 
 publishDate: "2009-01-16"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 This looks like fun.

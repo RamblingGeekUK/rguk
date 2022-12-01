@@ -5,6 +5,7 @@ categories:
   - "general"
 tags: 
   - "xbox"
+  - "archived"
 ---
 
 First trailer of Halo nightfall has been released. Here's the official description from Microsoft:

@@ -3,6 +3,8 @@ title: "Windows 7 Off Line Files (0x800710FE, 0x80070718, The specified network 
 publishDate: "2013-01-16"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 These errors can be misleading and cause you go off on a tangent....  Check the local profile cache size on the PC.  You do this by doing the following: -

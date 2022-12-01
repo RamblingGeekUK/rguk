@@ -6,6 +6,7 @@ categories:
 tags: 
   - "exchange"
   - "powershell"
+  - "archived"
 ---
 
 Use the following to return all mailboxes and their sizes on a specified database, which outputs to CSV

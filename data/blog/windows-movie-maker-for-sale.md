@@ -5,6 +5,8 @@ categories:
   - "articleopinon"
   - "general"
 coverImage: "Windows-Movie-Maker-for-profit-purchase-dialog-e1521328041798.png"
+tags:
+  - "archived"
 ---
 
 Over the weekend I was sorting out a few files and found a few "WLMP", Windows Live Movie Maker Files. I opened one using VS Code and it very nicely listed all of the "assets" used in the project.

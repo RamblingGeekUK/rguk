@@ -3,6 +3,8 @@ title: "Exchange 2010 SP1 Multi Tenant"
 publishDate: "2012-07-13"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 When trying to assign full mailbox rights on an Exchange Multi Tenant installation, you receive this error:

@@ -3,6 +3,8 @@ title: "Windows Vista RC (Build 5600)"
 publishDate: "2006-09-09"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 Installed this last night and I'm playing around with it this morning. Noticed you could create a backup for your password to floppy disk! Is not the age were most people have USB pen drives, XD, SD, Compact Flash Drives in there PC's.... Yes leave the option to select a floppy disk but give us the option to select a different destination.

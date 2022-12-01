@@ -3,6 +3,8 @@ title: "Sage Line 50 and Windows 7 64bit"
 publishDate: "2010-05-11"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 Ran into an issue with 64 bit windows and Sage Line 50.   We use excel to suck data from sage for our stock, accounts, etc.  All of the spreadsheets that we have rely on the ODBC connector but it wouldn't work, even when we tried to configure it via the 32 ODBC control panel applet.   I had another look at it today and a little Google later I found this [link](https://postgresqldbnews.blogspot.com/2008/03/32-bit-odbc-drivers-in-vista-64.html).

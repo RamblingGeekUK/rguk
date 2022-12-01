@@ -3,6 +3,8 @@ title: "The remote computer disconnected the session because of an error in the 
 publishDate: "2011-02-25"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 [![image](https://ramberlinggeek.co.uk/wp-content/uploads/2011/02/image_thumb.png "image")](https://ramberlinggeek.co.uk/wp-content/uploads/2011/02/image.png)

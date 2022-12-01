@@ -3,6 +3,8 @@ title: "The \"Mojave Experiment\""
 publishDate: "2008-07-29"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 [The "Mojave Experiment"](https://www.mojaveexperiment.com/)

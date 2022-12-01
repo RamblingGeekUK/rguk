@@ -3,6 +3,8 @@ title: "Windows 8: Installing RSAT tools, nothing happens"
 publishDate: "2013-01-04"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 I wanted to install the RSAT tools on to my desktop PC to manage my lab servers, which don't have monitors connected.  I downloaded the RSAT tools from [here](https://www.microsoft.com/en-gb/download/details.aspx?id=28972) and ran the installation, nothing actually installed.

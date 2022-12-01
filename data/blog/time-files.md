@@ -3,6 +3,8 @@ title: "Time flies"
 publishDate: "2010-08-19"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 Wow, I can’t believe it’s been 10 days since I last blogged.   It’s a good job that I didn’t join in with BEDA (Blog Everyday in August). 

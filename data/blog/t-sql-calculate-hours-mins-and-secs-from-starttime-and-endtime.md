@@ -3,6 +3,8 @@ title: "T-SQL:  Calculate Hours, Mins and Secs from StartTime and EndTime"
 publishDate: "2008-01-13"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
   

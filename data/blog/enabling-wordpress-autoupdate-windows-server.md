@@ -5,6 +5,7 @@ categories:
   - "general"
 tags: 
   - "youtube"
+  - "archived"
 ---
 
 Looking at how to get WordPress running on Windows Server and allowing auto update to work.  This is what I did and it seems to work.   

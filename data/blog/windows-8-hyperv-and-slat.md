@@ -3,6 +3,8 @@ title: "Windows 8 HyperV and SLAT"
 publishDate: "2012-03-03"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 Windows 8 HyperV requires support for SLAT (second level address translation).  Check you BIOS as it can be enabled disabled from within.

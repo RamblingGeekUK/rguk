@@ -3,6 +3,8 @@ title: "Windows Home Server"
 publishDate: "2009-01-03"
 categories: 
   - "general"
+tags:
+  - "archived"  
 ---
 
   

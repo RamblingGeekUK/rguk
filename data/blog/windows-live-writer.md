@@ -3,6 +3,8 @@ title: "Windows Live Writer"
 publishDate: "2006-08-15"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 OK this is my first post using Microsoft's New Windows Live Writer Application/Utility...

@@ -12,6 +12,7 @@ import HighlightedPosts from '~/components/blog/HighlightedPosts.astro';
 import FAQs from '~/components/widgets/FAQs.astro';
 import Stats from '~/components/widgets/Stats.astro';
 import CallToAction from '~/components/widgets/CallToAction.astro';
+import Footer from '~/components/widgets/Footer.astro';
 
 const meta = {
 	title: SITE.title,
@@ -22,10 +23,10 @@ const meta = {
 
 <Layout {meta}>
 	<Hero />
+	<!--
 	<HighlightedPosts />
-	
-	<!-- <Features />
 	<Steps />
+	<Features />
 	<Features2 />
 	<Features3 />
 	<FAQs />

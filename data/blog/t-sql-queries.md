@@ -3,6 +3,8 @@ title: "T-SQL Queries"
 publishDate: "2007-02-08"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 I was trying to figure out how to get a T-SQL to allow a user to enter part of a name to query on, for example the user could enter ML, click a search button which would return all companies with the letters ML in.

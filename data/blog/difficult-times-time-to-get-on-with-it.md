@@ -3,6 +3,8 @@ title: "Difficult times, time to get on with it..."
 publishDate: "2016-05-17"
 categories: 
   - "general"
+tags: 
+  - "archived"
 ---
 
 The past 12 months have been one of the most difficult times of my life. I'm not sure if I should go into the details here or anywhere else on the Web. One thing the Web has done over the last decade has changed what people say in public, what was once kept for close friends is now posted all over social media.

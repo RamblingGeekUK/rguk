@@ -3,6 +3,8 @@ title: "How to disable SMB 2.0 …"
 publishDate: "2012-01-25"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 **For Windows 7**

@@ -3,6 +3,8 @@ title: "Hello World"
 publishDate: "2010-10-31"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 I have been away on my Holidays of late…. hence why it’s been quiet on here. So here’s a brief summary of things I'm playing around with and an update.  ![Smile](https://ramberlinggeek.co.uk/wp-content/uploads/2010/10/wlEmoticon-smile.png)

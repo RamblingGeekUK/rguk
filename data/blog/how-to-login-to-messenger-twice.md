@@ -3,6 +3,8 @@ title: "How to: Login to Messenger twice…"
 publishDate: "2011-01-04"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 Logging in to Windows Live Messenger using separate accounts.

@@ -3,6 +3,8 @@ title: "Microsoft Ad"
 publishDate: "2008-09-12"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 Here's the next ad from Microsoft [https://www.microsoft.com/windows/](https://www.microsoft.com/windows/ "https://www.microsoft.com/windows/")

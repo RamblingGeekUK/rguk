@@ -3,6 +3,8 @@ title: "Now a MCP"
 publishDate: "2007-03-11"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 I passed my first Microsoft Exam, on Friday. I've been working with computers since I was 13+ (I'm 30 now). As I worked in a single company for 9+ years, applying for a Microsoft exam never seem to happen. I think it was a combination of me not wanting to fail and the company I worked for not pushing me and others hard enough, no encouragement, no offers of paying for training courses or books.

@@ -3,6 +3,8 @@ title: "Windows Home Server"
 publishDate: "2008-07-30"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 I’ve spent the last couple of evenings playing around with my latest purchase, HP MediaSmart Server.

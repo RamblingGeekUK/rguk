@@ -3,6 +3,8 @@ title: "Google Chrome - Download a new browser"
 publishDate: "2008-09-03"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 [Google Chrome - Download a new browser](https://www.google.com/chrome/index.html?hl=en-GB&brand=CHMG&utm_source=en-GB-hpp&utm_medium=hpp&utm_campaign=en-GB)

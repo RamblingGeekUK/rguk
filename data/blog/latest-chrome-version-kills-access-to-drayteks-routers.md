@@ -7,6 +7,7 @@ tags:
   - "chrome"
   - "draytek"
   - "ssl"
+  - "archived"
 ---
 
 If your seeing this when trying to connect to your DrayTek with the latest versions of Chrome.

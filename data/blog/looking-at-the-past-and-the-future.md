@@ -3,6 +3,8 @@ title: "Looking at the past and the future"
 publishDate: "2011-10-29"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 It’s been a week of anniversary’s. This past week, [Windows XP](https://www.engadget.com/2011/10/25/windows-xp-turns-10-enjoys-its-golden-years-and-slow-transition/) and [Apple’s iPod](https://www.engadget.com/2011/10/23/the-ipod-turns-10-celebrates-a-decade-of-destroying-physical-me/) both turned 10 years old.  I’m amazed how much has changed in the last 10 years.

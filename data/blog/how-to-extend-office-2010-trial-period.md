@@ -3,6 +3,8 @@ title: "How To Extend Office 2010 Trial Period"
 publishDate: "2012-01-03"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 This can be achieved by running the Office OSPPREARM which is located in the Program Files folder.   Running this will command the Trial will be extended by 30 days, it can be run five times.

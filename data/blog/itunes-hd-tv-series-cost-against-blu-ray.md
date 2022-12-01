@@ -3,6 +3,8 @@ title: "iTunes HD TV Series Cost Against Blu-Ray"
 publishDate: "2010-07-05"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 [![iTunes DVD Costs Comparsion](https://ramberlinggeek.co.uk/wp-content/uploads/2010/07/iTunesDVDCostsComparsion_thumb.jpg "iTunes DVD Costs Comparsion")](https://ramberlinggeek.co.uk/wp-content/uploads/2010/07/iTunesDVDCostsComparsion.jpg)

@@ -3,6 +3,8 @@ title: "Siri reporting Windows Phone as the best phone"
 publishDate: "2012-05-12"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 [![iPhone, Siri Response](https://ramblinggeek.co.uk/wp-content/uploads/2012/05/photo_thumb1.png "iPhone, Siri Response")](https://ramblinggeek.co.uk/wp-content/uploads/2012/05/photo1.png)

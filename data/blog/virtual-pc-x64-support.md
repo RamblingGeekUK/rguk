@@ -3,6 +3,8 @@ title: "Virtual PC x64 Support"
 publishDate: "2008-08-26"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 I've e-mail and spoken with every Microsoft employee that I've come across and there not talking about Virtual PC x64 Support.

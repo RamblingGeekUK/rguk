@@ -3,6 +3,8 @@ title: "Apple \"orders 10m 3G iPhones\" to appease Europe"
 publishDate: "2008-03-27"
 categories: 
   - "general"
+tags: 
+  - "archived"
 ---
 
 [Apple "orders 10m 3G iPhones" to appease Europe"](https://www.pcpro.co.uk/news/181827/apple-orders-10m-3g-iphones-to-appease-europe.html)

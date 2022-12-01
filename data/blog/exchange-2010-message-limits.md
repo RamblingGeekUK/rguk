@@ -3,6 +3,8 @@ title: "Exchange 2010 Message Limits"
 publishDate: "2012-01-04"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 There's a few places to change this and that's global settings as well as the connectors.

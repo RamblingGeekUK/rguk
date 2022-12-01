@@ -3,6 +3,8 @@ title: "COM Surrogate has stopped working"
 publishDate: "2013-05-01"
 categories: 
   - "general"
+tags: 
+  - "archived"
 ---
 
 I had an issue the other day when a user couldn't open an image attachment within an email, when they tried to open the email, they would receive the following error:

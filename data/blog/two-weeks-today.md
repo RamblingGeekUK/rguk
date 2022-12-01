@@ -3,6 +3,8 @@ title: "Two Weeks Today"
 publishDate: "2011-06-01"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 Two weeks ago today our son, Ethan was born.  He’s still in hospital and is doing great, we both can’t wait for him to come home.

@@ -3,6 +3,8 @@ title: "Build numbers and release dates for Exchange Server"
 publishDate: "2011-07-07"
 categories: 
   - "general"
+tags: 
+  - "archived"
 ---
 
 I came across this [158530](https://support.microsoft.com/kb/158530) Microsoft Knowledge base some time ago and have only just got around to posting, I have republished here for easier reading.

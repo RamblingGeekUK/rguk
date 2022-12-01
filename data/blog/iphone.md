@@ -3,6 +3,8 @@ title: "Iphone"
 publishDate: "2009-02-16"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 Blogging with iPhone. Yes I have bought one, well three as it happens. We have moved from orange to o2, it acutally worked out cheaper per month.

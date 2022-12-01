@@ -3,6 +3,8 @@ title: "iPad"
 publishDate: "2010-01-29"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 I’m not impressed with the iPad.  I think I’m going to wait for the HP Slate to be released and then compare.  At the moment thou, I think I would prefer the HP.

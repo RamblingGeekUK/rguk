@@ -4,6 +4,8 @@ publishDate: "2015-11-03"
 categories: 
   - "general"
 coverImage: "onedrive.png"
+tags:
+  - "archived"
 ---
 
 Microsoft announced today that it's basically blowing away most of [OneDrive](https://blog.onedrive.com/onedrive_changes/).

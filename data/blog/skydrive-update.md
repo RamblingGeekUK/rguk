@@ -3,6 +3,8 @@ title: "SkyDrive Update"
 publishDate: "2012-04-23"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 Microsoft today have announced the local client download, think dropbox, for Windows and Mac OS X Lion.   They have also announced reduction of the free 25GB to 7GB, existing users can claim to keep there 25GB, Click [here](https://windows.microsoft.com/en-us/skydrive/loyalty) for Microsoft site for me details.  Sign in now to claim it before you lose it.   Login to your account and click the link to keep your current 25GB storage.

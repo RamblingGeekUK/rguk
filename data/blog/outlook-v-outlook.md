@@ -3,6 +3,8 @@ title: "Outlook v Outlook"
 publishDate: "2016-07-27"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 Microsoft are in the process of moving the current Outlook back-end over to what I think it is Exchange/Azure back-end. They have said that this would be completed by the end of the summer.   I have just checked mine and it hasn't yet moved over.

@@ -3,6 +3,8 @@ title: "How To resolve a sub domain internally with SBS 2003"
 publishDate: "2010-07-04"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 If you have created a A record called remote (for example) on your _domain_ name to make it easier for users to access RWW (remote web workplace) from home, you will notice of course that this doesn’t work internally.  This can cause issues with Exchange Active Sync devices that you may have configured to connect to the the server using _remote.domain.com_ and this works great when external from the internal network.  It doesn’t work when the device is within the network the and connected via Wi-Fi. 

@@ -7,6 +7,7 @@ tags:
   - "10"
   - "technical-preview"
   - "windows"
+  - "archived"
 ---
 
 You can Download the Windows 10 Technical Preview for Enterprise Direct here once it gets published on the Windows Insider Program **on October 1st 2014.** The download will offer a burnable/bootable ISO-file of around 4GB.

@@ -3,6 +3,8 @@ title: "The Next Big Move"
 publishDate: "2009-08-08"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 Google has said that they are going to enter the OS Market late next year with ChromeOS.

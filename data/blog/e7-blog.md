@@ -3,6 +3,8 @@ title: "E7 Blog"
 publishDate: "2008-08-26"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 I've been reading the new Microsoft Blog from the head of the Windows Team who's starting talking a little about Windows 7.

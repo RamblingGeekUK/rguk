@@ -3,6 +3,9 @@ title: "How to configure Internet Explorer to open Office documents in the appro
 publishDate: "2013-08-08"
 categories: 
   - "general"
+tags:
+  - "archived"
+  
 ---
 
 This solution works fine for Office and Windows Prior to Office 2013, you have to do manually for Office 2013.

@@ -3,6 +3,8 @@ title: "Windows 7: Running the same application twice"
 publishDate: "2012-12-14"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 I was asked recently why a LOB (Line of business) application would no longer allow the user to open the application twice on there new PC, which was running on Windows XP.

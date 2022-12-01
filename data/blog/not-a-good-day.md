@@ -3,6 +3,8 @@ title: "Not a good day"
 publishDate: "2008-02-04"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 Mixed feelings about this, no one likes talking about mistakes they make.  Today it appears that some data was over written.... no backup ![smile_angry](https://spaces.live.com/rte/emoticons/smile_angry.gif)...  how many times do we have to try and drum it in to everyone, customers, staff, home users, everyone!

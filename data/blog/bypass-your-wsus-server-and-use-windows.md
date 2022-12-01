@@ -3,6 +3,8 @@ title: "Bypass your WSUS server and use Windows"
 publishDate: "2013-08-01"
 categories: 
   - "general"
+tags: 
+  - "archived"
 ---
 
 In many businesses, the network has been configured for Windows PCs to connect to a local server for Microsoft Updates. Generally running Windows Server Updates Server or WSUS for short.  If WSUS has an issue and updates aren't being pulled down, but you need to update a PC quickly, then you can do the following to turn off WSUS for that PC, which will then allow you to obtain updates directly from Microsoft Servers.

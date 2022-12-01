@@ -3,6 +3,8 @@ title: "iPhone Improvements"
 publishDate: "2009-09-08"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 I really like my iPhone, there are a few things that need to be there, my list has reduced some what since version 3.0.

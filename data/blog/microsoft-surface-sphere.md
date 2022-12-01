@@ -3,6 +3,8 @@ title: "Microsoft Surface Sphere"
 publishDate: "2008-07-29"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 This looks cool..

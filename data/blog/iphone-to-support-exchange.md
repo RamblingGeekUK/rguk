@@ -3,6 +3,8 @@ title: "iPhone to Support Exchange"
 publishDate: "2008-03-06"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 [![apple-sdk-022](https://ramberlinggeek.co.uk/wp-content/uploads/2008/03/apple-sdk-022.jpg)](https://www.engadget.com/2008/03/06/live-from-apples-iphone-press-conference/)

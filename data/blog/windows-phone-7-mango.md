@@ -3,6 +3,8 @@ title: "Windows Phone 7 – Mango"
 publishDate: "2011-07-20"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 I updated my Windows Phone to the Mango Beta a week ago.   For a beta it appears to be fairly stable and performance is the same as it was before if not better in some areas.  Here’s a few quick thoughts:-

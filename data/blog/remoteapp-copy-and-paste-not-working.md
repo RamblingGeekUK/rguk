@@ -3,6 +3,8 @@ title: "RemoteApp: Copy and Paste not working"
 publishDate: "2012-08-02"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 Check the following local policy of the PC, is set to **Not Configured**.

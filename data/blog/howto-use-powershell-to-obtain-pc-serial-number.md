@@ -6,11 +6,12 @@ categories:
 tags: 
   - "powershell"
   - "windows"
+  - "archived"
 ---
 
 Open powershell and enter the following :
 
-```plaintext
+```
 (get-wmiobject WIN32\_bios).SerialNumber
 ```
 

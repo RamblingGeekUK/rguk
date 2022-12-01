@@ -3,6 +3,8 @@ title: "Microsoft Outlook - Exchange Is Unavailable, Outlook Must Be Online Or C
 publishDate: "2016-01-11"
 categories: 
   - "general"
+tags:
+  - "archived"
 coverImage: "Capture1-redone.jpg"
 ---
 

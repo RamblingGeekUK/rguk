@@ -3,6 +3,8 @@ title: "MapiExceptionMailboxInTransit"
 publishDate: "2015-03-06"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 I was receiving this error:-

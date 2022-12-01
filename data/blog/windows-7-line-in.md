@@ -3,6 +3,8 @@ title: "Windows 7 Line In"
 publishDate: "2009-08-27"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 I just recalled a video I watched on Channel9 which shows you that you can connect an MP3 player, in my case an iPhone via the line in and listen to your content via your PC speakers…. 

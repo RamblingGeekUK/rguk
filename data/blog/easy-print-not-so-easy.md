@@ -3,6 +3,8 @@ title: "Easy Print, Not So Easy"
 publishDate: "2014-02-22"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 Microsoft's introduced EasyPrint to easy printing from a Remote Desktop Server (aka Terminal Server), it uses Microsoft's XMAL printer driver.  XMAL is a description of an object in XML, its really cool technology.

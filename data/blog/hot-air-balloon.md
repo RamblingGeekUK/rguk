@@ -3,6 +3,8 @@ title: "Hot Air Balloon"
 publishDate: "2007-08-13"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 We booked to go on a Virgin hot air balloon, we have had 3 attempts, and this was on fourth on Saturday and we very nearly did it.

@@ -3,6 +3,8 @@ title: "Error connecting to agent: No such file or directory"
 publishDate: "2019-08-14"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 So I was setting up my local desktop PC, Windows 10 (1903) to connect to a Raspberry Pi using the new Microsoft Terminal.

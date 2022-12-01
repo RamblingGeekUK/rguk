@@ -3,6 +3,8 @@ title: "Blast from the past."
 publishDate: "2011-03-16"
 categories: 
   - "general"
+tags: 
+  - "archived"
 ---
 
 I was given this DIMM, which was supplied by the Comp Shop. 🙂

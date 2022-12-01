@@ -9,6 +9,7 @@ tags:
   - "usb"
   - "vigor"
   - "vulnerability"
+  - "archived"
 ---
 
 It appears that a new flaw has been found on popular routers, that port 20005 is open on the WAN side of the routers. If the router has a USB Port.

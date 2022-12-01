@@ -3,6 +3,8 @@ title: "Lost Office Key"
 publishDate: "2009-07-01"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 A customers PC was infected with lots of malware.  So to completely remove the malware it was decided to wipe the PC and reinstall the OS.  When we came to install Office 2007 the Office 2007 OEM key could not be located.  For those who aren’t aware it comes in a cardboard folder, with a credit card size piece of plastic with the key printed on it.

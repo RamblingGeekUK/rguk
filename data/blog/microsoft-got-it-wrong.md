@@ -3,6 +3,8 @@ title: "Microsoft Got it Wrong"
 publishDate: "2013-03-16"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 Microsoft has got it wrong with their approach to Windows 8.  Windows 8 is selling poorly because it's not what people expect or want from a Desktop OS.  Microsoft would have been better bringing out a new OS, not based windows.

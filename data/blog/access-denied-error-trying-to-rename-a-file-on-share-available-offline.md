@@ -4,7 +4,7 @@ publishDate: "2019-04-25"
 categories: 
   - "general"
 tags:
-  - "archive"
+  - "archived"
 ---
 
 ![](https://i2.wp.com/www.ramblinggeek.co.uk/wp-content/uploads/2019/04/folder-redirectiion-renname.gif?fit=900%2C727&ssl=1)

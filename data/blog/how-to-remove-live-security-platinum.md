@@ -3,6 +3,8 @@ title: "How to Remove Live Security Platinum"
 publishDate: "2012-06-25"
 categories: 
   - "general"
+tags:
+  - "archived"
 ---
 
 This infections can be difficult to remove it as it stops AV and removers running.   If you logout and login as a different users (or different profile), then it may not present itself, but AV’s don’t locate the infection.

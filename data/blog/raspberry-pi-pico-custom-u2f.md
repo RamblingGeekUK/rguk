@@ -6,6 +6,8 @@ categories:
 tags: 
   - "raspberry"
   - "pico"
+image: "~/assets/images/Build Your Own U2F Firmware.png"
+excerpt: "We take a look at the process of building a custom U2F file to allow easy deployment to many Micro Controllers"
 ---
 
 ### Why

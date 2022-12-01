@@ -6,7 +6,7 @@ categories:
   - "General"
 excerpt: "I needed to get a Teams Busy LED Lamp up and running quickly. I managed to do this using two Open Source projects. I was aware of PresenceLight by Isaac Levin. He has done a great job of adding support for various Smart Lights such as LIFX, YeeLight, Philips Hue, etc... I didn't have any of those Smart Lights..."
 tags:
-  - "archived"
+  - "raspberry"
 ---
 
 I needed to get a Teams Busy LED Lamp up and running quickly. I managed to do this using two Open Source projects.

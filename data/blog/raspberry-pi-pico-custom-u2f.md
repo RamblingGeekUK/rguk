@@ -38,13 +38,15 @@ git clone https://github.com/micropython/micropython.git
 git submodule update --init lib/mbedtl
 ```
 
-Now enter the micropyton folder and make 
+Now enter the micropyton folder and make
 
 ```bash
 cd micropython
 make -C mpy-cross
 cd ..
 ```
+
+Now copy your files (main.py, etc) from your PC to the following folder
 
 ```bash
 ports/rp2/modules.
@@ -66,3 +68,9 @@ make BOARD=PICO_W submodules
 make BOARD=PICO_W clean
 make BOARD=PICO_W 
 ```
+
+Once it's completed building you should have ```firmware.u2f``` file in the folder ```ports/rp2/build-PICO_W``` or ```ports/rp2/build-PICO``` depending on which your targets.
+
+Now you can use the ```firmware.u2f``` file as normal. Press the BOOTSEL button on the PICO W and drag the `firmware`.u2f``` file over and it will flash as normal, reboot and you should see your code run.
+
+Source : https://forum.micropython.org/viewtopic.php?f=21&t=12559#p68049
